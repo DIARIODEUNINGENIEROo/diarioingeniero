@@ -21,11 +21,11 @@
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
                 </button>
-                <a class="btn btn-primary navbar-toggler navbar-toggler-left hidden-lg-up mob_header_but" type="button" data-toggle="offcanvas" aria-controls="sidebar" aria-expanded="false" aria-label="Toggle navigation" >
+                <a class="btn btn-primary navbar-toggler navbar-toggler-left d-lg-none mob_header_but" type="button" data-toggle="offcanvas" aria-controls="sidebar" aria-expanded="false" aria-label="Toggle navigation" >
                     <span class="navbar-toggler-icon"></span>
                 </a>                
-                <img class="img-fluid hidden-lg-up mob_banner_fmt" src="imags/banners/gu_miciudad_es.jpg" alt=”Logo” />
-                <div class="container-fluid img-fluid hidden-lg-up row mob_header_fmt">
+                <img class="img-fluid d-lg-none mob_banner_fmt" src="imags/banners/gu_miciudad_es.jpg" alt=”Logo” />
+                <div class="container-fluid img-fluid d-lg-none row mob_header_fmt">
                     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault2" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                     </button>
@@ -59,7 +59,7 @@
                     </ul>
                 </div>
             </nav>
-            <div class="container-fluid  hidden-md-down"
+            <div class="container-fluid  d-none d-lg-block"
                 style="background-size: cover;
                 background:url('imags/banners/gu_miciudad_es.jpg') center no-repeat"
                 >
@@ -103,8 +103,8 @@
             </nav>
         </header>
 
-        <a href="#inicial"><img class="d-md-none d-sm-none arrow_up"     src="imags/icons/arrow.png"></a>
-        <a href="#inicial"><img class="d-md-block d-sm-block mob_arrow_up"   src="imags/icons/arrow.png"></a>
+        <a href="#inicial"><img class="d-none d-lg-block arrow_up"     src="imags/icons/arrow.png"></a>
+        <a href="#inicial"><img class="d-lg-none mob_arrow_up"   src="imags/icons/arrow.png"></a>
         <div id="inicial" class="row row-offcanvas row-offcanvas-left content_l">  
             <div class="col-lg-0 col-md-0 col-sm-0  sidebar-offcanvas sidebar_lft" id="sidebar">
                 <div class="sidebar-module text-left"  >
@@ -122,14 +122,14 @@
                 </div>
             </div>  
             <div class="col-12 col-lg-8 col-md-8 col-xs-12 content_center">
-                <div class="hidden-lg-up">
+                <div class="d-lg-none">
 	                 <p>En esta sección presento un mapa dinámico donde puedes conocer los diferentes monumentos que componen la ciudad y parajes singulares así como otras instalaciones. En la versión PC se puede ir mostrando cada monumento al pasar el raton.<br>
 	                 Pincha aqui para cambiar de modo:<br/> 
 	                 <strong><a onmouseover="change_imagen('3D')" >MAPA 3D</a></strong>.<br/>    
 	                 <strong><a onmouseover="change_imagen('2D')" >MAPA 2D</a></strong>.<br/><br/>                   
 	                 <img class="img-fluid" src="imags/guada/ciudad/mapa_gu_2D.jpg"   style="float:left" width="753" height="685" id="Guada"   alt="" usemap="#Guada_Town">
             	</div>				
-    			<map class="hidden-md-down" name="Guada_Town">  
+    			<map class="d-none d-lg-block" name="Guada_Town">  
 					<p>En esta sección presento un mapa dinámico donde puedes conocer los diferentes monumentos que componen la ciudad y parajes singulares así como otras instalaciones.<br/>
 					Si pasas el raton sobre cualquiera de los lugares de interés señalados en el mapa podras ver el lugar en cuestión.</p>
 					<img src="imags/guada/ciudad/mapa_gu_2D.jpg"   style="float:left" width="753" height="685" id="Guada"   alt="" usemap="#Guada_Town">
@@ -246,7 +246,7 @@
 		            <area onmouseover="change_imagen('00')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="394,343, 387,347, 380,350, 376,357, 375,357, 375,343, 394,343" href="http://##lplaza">
 		            <area onmouseover="change_imagen('3D')" onmouseout="hide_imagen()"  shape="poly" alt="" coords="65,689, 9,689, 9,630, 65,630, 65,689">
     			</map>  <br />
-	            <div class="hidden-md-down"> 	
+	            <div class="d-none d-lg-block"> 	
 					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	                <!-- HORIZONTA_GRANDE -->
 	                <ins class="adsbygoogle"
@@ -255,7 +255,7 @@
 	                     data-ad-slot="1958507219"></ins>
 	                <script>(adsbygoogle = window.adsbygoogle || []).push({});</script> 
 				</div>
-				<div class="hidden-lg-up">  
+				<div class="d-lg-none">  
 	                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	                <!-- HORIZONTAL_PEQUENIO -->
 	                <ins class="adsbygoogle"
@@ -265,7 +265,7 @@
 	                <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 	            </div>
 			</div>   
-            <div class="col-2 col-lg-2  hidden-lg-down" id="sidebar2">                
+            <div class="col-2 col-lg-2  d-none d-lg-block" id="sidebar2">                
 				<div class="sidebar-module text-right"  >
                     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                         <ins class="adsbygoogle"
@@ -319,7 +319,7 @@
                 </div>
             </div>
         </footer>
-        <div class="wrapper hidden-lg-up social_fmt" id="social_footer">            
+        <div class="wrapper d-lg-none social_fmt" id="social_footer">            
 			<div class="fb-send icono" data-href="www.diariodeuningeniero.com/gu_ciudad_es.html"></div>
             <a href="rss/general_rss.xml"><img class="icono " src="imags/icons/icon-rss.png"></a>
             <a href="http://twitter.com/home?status=Guadalajara, plano ciudad+www.diariodeuningeniero.com/gu_ciudad_es.html"><img class="icono" src="imags/icons/icon-twitter.png"></a>

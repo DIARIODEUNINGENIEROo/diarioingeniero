@@ -21,11 +21,11 @@
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
                 </button>
-                <a class="btn btn-primary navbar-toggler navbar-toggler-left hidden-lg-up mob_header_but" type="button" data-toggle="offcanvas"  aria-controls="sidebar" aria-expanded="false" aria-label="Toggle navigation" >
+                <a class="btn btn-primary navbar-toggler navbar-toggler-left d-lg-none mob_header_but" type="button" data-toggle="offcanvas"  aria-controls="sidebar" aria-expanded="false" aria-label="Toggle navigation" >
                     <span class="navbar-toggler-icon"></span>
                 </a>                
-                <img class="img-fluid hidden-lg-up mob_banner_fmt" src="imags/banners/gc_isla_es.jpg" alt=”Logo” />
-                <div class="container-fluid img-fluid hidden-lg-up row mob_header_fmt">
+                <img class="img-fluid d-lg-none mob_banner_fmt" src="imags/banners/gc_isla_es.jpg" alt=”Logo” />
+                <div class="container-fluid img-fluid d-lg-none row mob_header_fmt">
                     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault2" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                     </button>
@@ -59,7 +59,7 @@
                     </ul>
                 </div>
             </nav>
-            <div class="container-fluid  hidden-md-down"
+            <div class="container-fluid  d-none d-lg-block"
                 style="background-size: cover;
                 background:url('imags/banners/gc_isla_es.jpg') center no-repeat"
                 >
@@ -107,8 +107,8 @@
             </nav>
         </header>
 
-        <a href="#inicial"><img class="d-md-none d-sm-none arrow_up"     src="imags/icons/arrow.png"></a>
-        <a href="#inicial"><img class="d-md-block d-sm-block mob_arrow_up"   src="imags/icons/arrow.png"></a>
+        <a href="#inicial"><img class="d-none d-lg-block arrow_up"     src="imags/icons/arrow.png"></a>
+        <a href="#inicial"><img class="d-lg-none mob_arrow_up"   src="imags/icons/arrow.png"></a>
         <div id="inicial" class="row row-offcanvas row-offcanvas-left" style=" margin-bottom: 100px;">  
             <div class="col-lg-0 col-md-0 col-sm-0  sidebar-offcanvas sidebar_lft" id="sidebar">
                 <div class="sidebar-module text-left"  >
@@ -126,7 +126,7 @@
                 </div>
             </div>  
             <div class="col-12 col-lg-8 col-md-8 col-xs-12 content_center"> 
-                <div class="hidden-md-down">
+                <div class="d-none d-lg-block">
                     <img src="imags/gran_canaria/isla/gc_i_comarcas.png" id="comarcas"   alt="" usemap="#gc_comarcas_Map">
                     <map name="gc_comarcas_Map">
                         <area onmouseover="change_imagen('tejeda')" onmouseout="hide_imagen('')" shape="poly" alt="tejeda" coords="334,320, 334,323, 316,332, 309,333, 302,329, 300,322, 298,318, 294,320, 292,322, 283,332, 270,337, 268,338, 263,340, 262,345, 262,350, 259,355, 231,384, 222,392, 218,392, 211,387, 202,385, 199,384, 191,380, 188,374, 191,366, 194,356, 192,348, 186,342, 178,341, 165,343, 151,342, 143,340, 139,341, 134,348, 133,351, 130,352, 128,350, 127,347, 127,344, 125,335, 119,328, 112,317, 111,305, 110,298, 110,285, 117,286, 137,293, 141,293, 143,290, 149,284, 156,279, 164,277, 173,279, 179,281, 183,282, 185,279, 190,277, 199,275, 205,268, 207,264, 215,261, 232,264, 245,264, 255,257, 277,237, 282,237, 283,238, 297,250, 304,267, 308,282, 316,296, 325,308, 334,320" href="#">
@@ -141,7 +141,7 @@
                         <area onmouseover="change_imagen('maspalomas')" onmouseout="hide_imagen('')" shape="poly" alt="maspalomas" coords="327,643, 308,643, 304,643, 294,641, 287,635, 277,627, 269,626, 262,628, 255,627, 227,614, 218,612, 209,616, 204,619, 199,616, 197,615, 197,613, 205,607, 209,598, 209,568, 209,554, 213,541, 216,531, 215,522, 216,516, 222,506, 223,495, 222,479, 221,470, 217,463, 209,451, 208,444, 210,418, 211,407, 217,398, 219,394, 221,391, 238,376, 254,360, 260,352, 262,343, 266,337, 278,334, 285,329, 295,317, 299,317, 300,322, 301,326, 304,330, 311,333, 318,330, 325,326, 340,322, 354,330, 363,335, 374,346, 373,362, 368,369, 361,375, 356,379, 358,385, 360,397, 359,410, 360,414, 362,417, 373,425, 382,435, 384,439, 381,444, 376,448, 379,455, 385,465, 388,473, 389,476, 392,477, 405,479, 417,486, 420,488, 422,488, 424,486, 426,483, 429,483, 440,485, 449,481, 454,480, 458,483, 490,518, 514,543, 514,547, 510,548, 494,554, 451,560, 440,562, 430,568, 419,575, 407,579, 395,581, 387,589, 376,596, 353,604, 343,610, 338,620, 336,632, 334,640, 327,643" href="#">
                     </map>
                 </div> <br />                       
-                <div class="hidden-lg-up">  
+                <div class="d-lg-none">  
                     <img class="img-fluid" src="imags/gran_canaria/isla/gc_i_comarcas.png" id="comarcas" alt="" usemap="#gc_comarcas_Map">
                 </div>
     				<p>If you click<a onmousedown="change_image('gc_isla') "> here </a> you will see the complete road map of the province and by areas when moving the mouse.</p>
@@ -200,7 +200,7 @@
                     In the South, on the other hand, the time is usually static, not decreasing the minimum for most of the year of 20 degrees. Therefore, in Gran Canarias it is always possible to look for the sun because it is very rare that it will be covered in the whole island for more than two days. 
                     <br><br>
                     The capital that is located northwest of the island has a special climate due to nearby mountains that limits the passage of clouds and causes the accumulation of cold air bags that can leave without sun for days. It is very peculiar that sometimes just move 10 kilometers south there is no trace of clouds and the weather is completely different. It could be compared to London in terms of the storm that remains. This is especially noticeable at the end of February until the end of April, although this year, 2018, the year has been so rare that until the middle of June the sun has not been completely allowed.</p>                
-	            <div class="hidden-md-down"> 	
+	            <div class="d-none d-lg-block"> 	
 					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	                <!-- HORIZONTA_GRANDE -->
 	                <ins class="adsbygoogle"
@@ -211,7 +211,7 @@
 	                   (adsbygoogle = window.adsbygoogle || []).push({});
 	                </script> 
 				</div>
-				<div class="hidden-lg-up">  
+				<div class="d-lg-none">  
 	                <br><br><br>  
 	                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	                <!-- HORIZONTAL_PEQUENIO -->
@@ -224,7 +224,7 @@
 		            </script>   
 				</div>   
 			</div>   
-            <div class="col-2 col-lg-2  hidden-lg-down" id="sidebar2">                
+            <div class="col-2 col-lg-2  d-none d-lg-block" id="sidebar2">                
                 <div class="sidebar-module text-right" >
                     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                         <ins class="adsbygoogle"
@@ -278,7 +278,7 @@
                 </div>
             </div>
         </footer>
-        <div class="wrapper hidden-lg-up social_fmt" id="social_footer">            
+        <div class="wrapper d-lg-none social_fmt" id="social_footer">            
 			<div class="fb-send icono" data-href="www.diariodeuningeniero.com/gc_island_en.html"></div>
             <a href="rss/general_rss.xml"><img class="icono " src="imags/icons/icon-rss.png"></a>
             <a href="http://twitter.com/home?status=Geography and weather in Gran Canaria+www.diariodeuningeniero.com/gc_island_en.html"><img class="icono" src="imags/icons/icon-twitter.png"></a>

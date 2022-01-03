@@ -21,11 +21,11 @@
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
                 </button>
-                <a class="btn btn-primary navbar-toggler navbar-toggler-left hidden-lg-up mob_header_but" type="button" data-toggle="offcanvas" aria-controls="sidebar" aria-expanded="false" aria-label="Toggle navigation" >
+                <a class="btn btn-primary navbar-toggler navbar-toggler-left d-lg-none mob_header_but" type="button" data-toggle="offcanvas" aria-controls="sidebar" aria-expanded="false" aria-label="Toggle navigation" >
                     <span class="navbar-toggler-icon"></span>
                 </a>                
-                <img class="img-fluid hidden-lg-up mob_banner_fmt" src="imags/banners/alpiedelameseta.jpg" alt=”Logo” />
-                <div class="container-fluid img-fluid hidden-lg-up row mob_header_fmt">
+                <img class="img-fluid d-lg-none mob_banner_fmt" src="imags/banners/alpiedelameseta.jpg" alt=”Logo” />
+                <div class="container-fluid img-fluid d-lg-none row mob_header_fmt">
                     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault2" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                     </button>
@@ -59,7 +59,7 @@
                     </ul>
                 </div>
             </nav>
-            <div class="container-fluid  hidden-md-down"
+            <div class="container-fluid  d-none d-lg-block"
                 style="background-size: cover;
                 background:url('imags/banners/alpiedelameseta.jpg') center no-repeat"
                 >
@@ -103,8 +103,8 @@
             </nav>
         </header>
 
-        <a href="#inicial"><img class="d-md-none d-sm-none arrow_up"     src="imags/icons/arrow.png"></a>
-        <a href="#inicial"><img class="d-md-block d-sm-block mob_arrow_up"   src="imags/icons/arrow.png"></a>
+        <a href="#inicial"><img class="d-none d-lg-block arrow_up"     src="imags/icons/arrow.png"></a>
+        <a href="#inicial"><img class="d-lg-none mob_arrow_up"   src="imags/icons/arrow.png"></a>
         <div id="inicial" class="row row-offcanvas row-offcanvas-left content_l">  
             <div class="col-lg-0 col-md-0 col-sm-0  sidebar-offcanvas sidebar_lft" id="sidebar">
                 <div class="sidebar-module text-left"  >
@@ -122,7 +122,7 @@
                 </div>
             </div>  
             <div class="col-12 col-lg-8 col-md-8 col-xs-12 content_center">    
-                <div class="container row hidden-md-down">
+                <div class="container row d-none d-lg-block">
                     <img src="imags/guada/provincia/comarcas_guada.png"   id="guada"   alt="" usemap="#Guada_Map">                    
                     <map name="Guada_Map">
                         <area  onmouseover="change_imagen('Alcarria')" onmouseout="hide_imagen('Alcarria')"  shape="poly" alt="" coords="235,695, 120,695, 120,582, 120,469, 129,469, 137,467, 141,470, 147,469, 155,477, 163,485, 160,498, 160,514, 161,529, 181,531, 186,541, 190,552, 185,561, 182,572, 185,582, 180,591, 173,598, 168,606, 167,617, 167,627, 164,631, 162,636, 163,643, 169,647, 182,630, 199,618, 203,624, 204,633,
@@ -178,7 +178,7 @@
                         <area onmouseover="change_imagen('SenorioMolina')" onmouseout="hide_imagen('SenorioMolina')" shape="poly" alt="" coords="704,96, 694,102, 680,104, 668,108, 667,118, 662,127, 659,135, 663,143, 668,152, 665,154, 662,157, 656,151, 651,144, 642,142, 636,136, 631,129, 629,131, 629,134, 628,137, 612,148, 599,161, 586,174, 586,96, 704,96" href="#">
                     </map>
                 </div>  
-                <div class="container row hidden-lg-up">  
+                <div class="container row d-lg-none">  
                 <img class="img-fluid" src="imags/guada/provincia/comarcas_guada.png">					 
                 </div>  					                
                 <p>La provincia de Guadalajara se encuentra dentro de la comunidad autónoma de Castilla La Mancha. Está formada por cinco comarcas, como se muestra en el mapa.
@@ -201,7 +201,7 @@
                 Las lluvias son más notables en la comarca de la serranía y en la del Señorío de Molina donde existe una mayor altitud.
                 Esas zonas son muy aptas para la recogida de setas y para el caza debido a un ecosistema especial.<br />
                 Si pulsas <a onmousedown="change_imagen('guada_rain') " >aquí </a>veras el mapa completo de lluvias de la provincia y por zonas al pasar el ratón.</p>  
-	            <div class="hidden-md-down"> 	
+	            <div class="d-none d-lg-block"> 	
 					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	                <!-- HORIZONTA_GRANDE -->
 	                <ins class="adsbygoogle"
@@ -210,7 +210,7 @@
 	                     data-ad-slot="1958507219"></ins>
 	                <script>(adsbygoogle = window.adsbygoogle || []).push({});</script> 
 				</div>
-				<div class="hidden-lg-up">  
+				<div class="d-lg-none">  
 	                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	                <!-- HORIZONTAL_PEQUENIO -->
 	                <ins class="adsbygoogle"
@@ -220,7 +220,7 @@
 	                <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 	            </div>  
 			</div>   
-            <div class="col-2 col-lg-2  hidden-lg-down" id="sidebar2">                
+            <div class="col-2 col-lg-2  d-none d-lg-block" id="sidebar2">                
 				<div class="sidebar-module text-right"  >
                     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                         <ins class="adsbygoogle"
@@ -274,7 +274,7 @@
                 </div>
             </div>
         </footer>
-        <div class="wrapper hidden-lg-up social_fmt" id="social_footer">            
+        <div class="wrapper d-lg-none social_fmt" id="social_footer">            
 			<div class="fb-send icono" data-href="www.diariodeuningeniero.com/gu_provincia_es.html"></div>
             <a href="rss/general_rss.xml"><img class="icono " src="imags/icons/icon-rss.png"></a>
             <a href="http://twitter.com/home?status=Provincia de Guadalajara+www.diariodeuningeniero.com/gu_provincia_es.html"><img class="icono" src="imags/icons/icon-twitter.png"></a>

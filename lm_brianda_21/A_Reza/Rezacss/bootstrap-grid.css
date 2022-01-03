@@ -2149,7 +2149,7 @@
 }
 
 @media (min-width: 768px) {
-  .d-md-none {
+  .d-lg-none {
     display: none !important;
   }
   .d-md-inline {
@@ -2158,7 +2158,7 @@
   .d-md-inline-block {
     display: inline-block !important;
   }
-  .d-md-block {
+  .d-lg-block {
     display: block !important;
   }
   .d-md-table {
