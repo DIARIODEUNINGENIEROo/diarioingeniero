@@ -37,19 +37,36 @@
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-expanded="false">Emprender fuera</a>
-                            <div class="dropdown-menu" aria-labelledby="dropdown01">
-                                <a class="dropdown-item" href="wa_uk_main_es.html">Inglaterra</a>
-                                <a class="dropdown-item" href="wa_fr_main_es.html">Francia</a>
-                            </div>
+                            <ul class="dropdown-menu" aria-labelledby="dropdown01">
+                                <li><a class="dropdown-item" href="wa_uk_main_es.html">Inglaterra</a></li>
+                                <li><a class="dropdown-item" href="wa_fr_main_es.html">Francia</a></li>
+                            </ul>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="dropdown02" data-toggle="dropdown" aria-expanded="false">Mis Sitios</a>
-                            <div class="dropdown-menu" aria-labelledby="dropdown02">
-                                <a class="dropdown-item" href="gu_main_es.html">Guadalajara</a>
-                                <a class="dropdown-item disabled" href="#">El Bierzo</a>
-                                <a class="dropdown-item" href="gc_main_es.html">Canarias</a>
-                            </div>
+                            <ul class="dropdown-menu" aria-labelledby="dropdown02">
+                                <li><a class="dropdown-item" href="gu_main_es.html">Guadalajara</a></li>
+                                <li><a class="dropdown-item disabled" href="#">El Bierzo</a></li>
+                                <li><a class="dropdown-item" href="gc_main_es.html">Canarias</a></li>
+                            </ul>
                         </li>
+                        <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="dropdown03" data-toggle="dropdown" aria-expanded="false">Viajes</a>
+                            <ul class="dropdown-menu" aria-labelledby="dropdown03">
+                                <li><a class="trigger right-caret" href="#" id="dropdown04" data-toggle="dropdown" aria-expanded="false">EUROPA</a>
+                                    <ul class="dropdown-menu sub-menu" aria-labelledby="dropdown04">  
+                                        <li><a class="dropdown-item" href="blog22_es_viajes_iberia_es.html">Iberia</a></li>
+                                        <li><a class="dropdown-item" href="#">Francia</a></li>
+                                        <li><a class="dropdown-item" href="#">Italia</a></li>
+                                        <li><a class="dropdown-item" href="#">Alemania</a></li>                                        
+                                    </ul>
+                                </li>
+                                <li><a class="trigger right-caret" href="#" id="dropdown05" data-toggle="dropdown" aria-expanded="false">SUDAMERICA</a>
+                                    <ul class="dropdown-menu" aria-labelledby="dropdown05">  
+                                        <li><a class="dropdown-item" href="#">Peru</a></li>
+                                    </ul>  
+                                </li>
+                            </ul>
+                        </li>                        
                         <li class="nav-item">
                             <a class="nav-link" href="aboutme_es.html">Sobre mi</a>
                         </li>
@@ -108,7 +125,7 @@
                 </div>
             </div>  
          
-            <div class="col-12 col-lg-9 col-md-8 col-xs-12 content_cards">
+            <div class="col-12 col-lg-9 col-md-8 col-xs-12 content_cards"> 
                 <div class="card-deck">
                     <div class="card mb-4 text-left"
                         style="height:300px; 
@@ -311,8 +328,8 @@
                             <li><a href="contactme_es.html">Contacto</a></li>
                         </ul>
                     </div>
-                    <div class="col-md-4 col-sm-6 paddingtop-bottom d-none d-md-block footer_fmt_i">
-
+                    <div class="col-md-3 col-sm-6 paddingtop-bottom">
+                        <h6 class="heading7">ULTIMOS POSTS</h6>
                         <div class="text-left">
                             <a href="https://plus.google.com/108456074028547332093"><img class="icono_f" src="imags/icons/footer-google+.png" alt=google+_footer /></a>                           
                             <a href="https://www.facebook.com/DiarioIngeniero-373287576574463/"><img class="icono_f" src="imags/icons/footer-fb.png" alt=facebook_footer /></a> 
@@ -322,8 +339,7 @@
                             <p>Nueva Página de Facebook, Diariodeuningeniero <span>1 Agosto,2017</span></p>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-6 paddingtop-bottom footer_fmt_i">
-
+                    <div class="col-md-3 col-sm-6 paddingtop-bottom footer_fmt_i">
                         <div class="fb-page"
                             data-href="https://www.facebook.com/DiarioIngeniero-373287576574463/"
                             data-width="380"
@@ -495,6 +511,26 @@
         </div>
         <script>//<![CDATA[
         function adBlockDetected(){document.getElementById("WgD").classList.add("is-detected"),document.body.classList.add("ab-is-detected")}if("undefined"!=typeof fuckAdBlock||"undefined"!=typeof FuckAdBlock)adBlockDetected();else{var importFAB=document.createElement("script");importFAB.onload=function(){fuckAdBlock.onDetected(adBlockDetected),fuckAdBlock.onNotDetected(adBlockNotDetected)},importFAB.onerror=function(){adBlockDetected()},importFAB.integrity="sha384-CXnSItT4vv0CF9Lrll7Wu5SofkJWovtQcEuqpH2REEeQURSJapSzBwvm1QTDwgBK",importFAB.crossOrigin="anonymous",importFAB.src="https://cdn.jsdelivr.net/npm/fuckadblock@3.2.1/fuckadblock.min.js",document.head.appendChild(importFAB)}
-//]]></script>        
+//]]></script> 
+    <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+    <script>
+    $(function(){
+        $(".dropdown-menu > li > a.trigger").on("click",function(e){
+            var current=$(this).next();
+            var grandparent=$(this).parent().parent();
+            if($(this).hasClass('left-caret')||$(this).hasClass('right-caret'))
+                $(this).toggleClass('right-caret left-caret');
+            grandparent.find('.left-caret').not(this).toggleClass('right-caret left-caret');
+            grandparent.find(".sub-menu:visible").not(current).hide();
+            current.toggle();
+            e.stopPropagation();
+        });
+        $(".dropdown-menu > li > a:not(.trigger)").on("click",function(){
+            var root=$(this).closest('.dropdown');
+            root.find('.left-caret').toggleClass('right-caret left-caret');
+            root.find('.sub-menu:visible').hide();
+        });
+    });
+    </script>       
     </body>
 </html>

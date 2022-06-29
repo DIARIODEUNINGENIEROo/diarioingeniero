@@ -1041,7 +1041,7 @@ progress {
 }
 
 @media (min-width: 768px) {
-  .col-md {
+  .            <div class="col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft" id="sidebar"> {
     flex: 1 0 0%;
   }
   .row-cols-md-auto > * {
@@ -1072,55 +1072,55 @@ progress {
     flex: 0 0 auto;
     width: 16.666667%;
   }
-  .col-md-auto {
+  .            <div class="col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft" id="sidebar">-auto {
     flex: 0 0 auto;
     width: auto;
   }
-  .col-md-1 {
+  .            <div class="col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft" id="sidebar">-1 {
     flex: 0 0 auto;
     width: 8.333333%;
   }
-  .col-md-2 {
+  .            <div class="col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft" id="sidebar">-2 {
     flex: 0 0 auto;
     width: 16.666667%;
   }
-  .col-md-3 {
+  .            <div class="col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft" id="sidebar">-3 {
     flex: 0 0 auto;
     width: 25%;
   }
-  .col-md-4 {
+  .            <div class="col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft" id="sidebar">-4 {
     flex: 0 0 auto;
     width: 33.333333%;
   }
-  .col-md-5 {
+  .            <div class="col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft" id="sidebar">-5 {
     flex: 0 0 auto;
     width: 41.666667%;
   }
-  .col-md-6 {
+  .            <div class="col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft" id="sidebar">-6 {
     flex: 0 0 auto;
     width: 50%;
   }
-  .col-md-7 {
+  .            <div class="col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft" id="sidebar">-7 {
     flex: 0 0 auto;
     width: 58.333333%;
   }
-  .col-md-8 {
+  .            <div class="col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft" id="sidebar">-8 {
     flex: 0 0 auto;
     width: 66.666667%;
   }
-  .col-md-9 {
+  .            <div class="col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft" id="sidebar">-9 {
     flex: 0 0 auto;
     width: 75%;
   }
-  .col-md-10 {
+  .            <div class="col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft" id="sidebar">-10 {
     flex: 0 0 auto;
     width: 83.333333%;
   }
-  .col-md-11 {
+  .            <div class="col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft" id="sidebar">-11 {
     flex: 0 0 auto;
     width: 91.666667%;
   }
-  .col-md-12 {
+  .            <div class="col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft" id="sidebar">-12 {
     flex: 0 0 auto;
     width: 100%;
   }

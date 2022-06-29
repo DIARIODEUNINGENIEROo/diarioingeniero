@@ -47,18 +47,36 @@
                             </div>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="dropdown02" data-toggle="dropdown" aria-expanded="false">My places</a>
-                            <div class="dropdown-menu" aria-labelledby="dropdown02">
-                                <a class="dropdown-item" href="gu_main_en.html">Guadalajara</a>
-                                <a class="dropdown-item disabled" href="#">El Bierzo</a>
-                                <a class="dropdown-item" href="gc_main_en.html">Canarias</a>
-                            </div>
+                            <a class="nav-link dropdown-toggle" href="#" id="dropdown02" data-toggle="dropdown" aria-expanded="false">My Places</a>
+                            <ul class="dropdown-menu" aria-labelledby="dropdown02">
+                                <li><a class="dropdown-item" href="gu_main_en.html">Guadalajara</a></li>
+                                <li><a class="dropdown-item disabled" href="#">El Bierzo</a></li>
+                                <li><a class="dropdown-item" href="gc_main_en.html">Canarias</a></li>
+                            </ul>
                         </li>
+                        <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="dropdown03" data-toggle="dropdown" aria-expanded="false">Travel</a>
+                            <ul class="dropdown-menu" aria-labelledby="dropdown03">
+                                <li><a class="trigger right-caret" href="#" id="dropdown04" data-toggle="dropdown" aria-expanded="false">EUROPA</a>
+                                    <ul class="dropdown-menu sub-menu" aria-labelledby="dropdown04">  
+                                        <li><a class="dropdown-item" href="blog22_es_viajes_iberia_en.html">Spain</a></li>
+                                        <li><a class="dropdown-item" href="#">France</a></li>
+                                        <li><a class="dropdown-item" href="#">Italy</a></li>
+                                        <li><a class="dropdown-item" href="#">Germany</a></li>                                        
+                                    </ul>
+                                </li>
+                                <li><a class="trigger right-caret" href="#" id="dropdown05" data-toggle="dropdown" aria-expanded="false">SUDAMERICA</a>
+                                    <ul class="dropdown-menu" aria-labelledby="dropdown05">  
+                                        <li><a class="dropdown-item" href="#">Peru</a></li>
+                                    </ul>  
+                                </li>
+                            </ul>
+                        </li>                        
                         <li class="nav-item">
                             <a class="nav-link" href="aboutme_en.html">About me</a>
                         </li>
                     </ul>
                 </div>
+            </nav>
             </nav>
             <div class="container-fluid  d-none d-lg-block"
                 style="background-size: cover;
@@ -108,7 +126,7 @@
         <a href="#inicial"><img class="d-none d-lg-block arrow_up"     src="imags/icons/arrow.png"></a>
         <a href="#inicial"><img class="d-lg-none mob_arrow_up"   src="imags/icons/arrow.png"></a>
         <div id="inicial" class="row row-offcanvas row-offcanvas-left content_l">  
-            <div class="col-lg-0 col-md-0 col-sm-0  sidebar-offcanvas sidebar_lft" id="sidebar">
+            <div class="col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft" id="sidebar">
                 <div class="sidebar-module text-left"  >
                     <a href="https://validator.w3.org/feed/check.cgi?url=www.diariodeuningeniero.com%2Frss%2Fgeneral_rss.xml"><img src="https://www.onepointsync.com/wp-content/uploads/2016/08/valid-rss-rogers.png" alt="[Valid RSS]" title="Validate my RSS feed" /></a>
                     <br />
@@ -123,7 +141,7 @@
 	                <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
                 </div>
             </div>  
-            <div class="col-12 col-lg-8 col-md-8 col-xs-12 content_center">  	
+            <div class="col-12 col-xl-10 col-lg-8 col-md-9 content_center">  	
                 <div class=" d-none d-lg-block">            
                     <img style="text-align: center;" src="imags/guada/senderismo/mapas/guada_senderismo.jpg"   id="topo"   alt="" usemap="#GuadaTopo_Map">
                     <map name="GuadaTopo_Map">
@@ -189,7 +207,7 @@
 	                <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 	            </div>    
 			</div>   
-            <div class="col-2 col-lg-2  d-none d-lg-block" id="sidebar2">                
+            <div class="col-0 col-xl-1 col-lg-2 d-none d-xl-block d-lg-block" id="sidebar2">                
 				<div class="sidebar-module text-right"  >
                     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                         <ins class="adsbygoogle"
@@ -367,6 +385,26 @@
         </div>
         <script>//<![CDATA[
         function adBlockDetected(){document.getElementById("WgD").classList.add("is-detected"),document.body.classList.add("ab-is-detected")}if("undefined"!=typeof fuckAdBlock||"undefined"!=typeof FuckAdBlock)adBlockDetected();else{var importFAB=document.createElement("script");importFAB.onload=function(){fuckAdBlock.onDetected(adBlockDetected),fuckAdBlock.onNotDetected(adBlockNotDetected)},importFAB.onerror=function(){adBlockDetected()},importFAB.integrity="sha384-CXnSItT4vv0CF9Lrll7Wu5SofkJWovtQcEuqpH2REEeQURSJapSzBwvm1QTDwgBK",importFAB.crossOrigin="anonymous",importFAB.src="https://cdn.jsdelivr.net/npm/fuckadblock@3.2.1/fuckadblock.min.js",document.head.appendChild(importFAB)}
-//]]></script>        
+//]]></script> 
+    <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+    <script>
+    $(function(){
+        $(".dropdown-menu > li > a.trigger").on("click",function(e){
+            var current=$(this).next();
+            var grandparent=$(this).parent().parent();
+            if($(this).hasClass('left-caret')||$(this).hasClass('right-caret'))
+                $(this).toggleClass('right-caret left-caret');
+            grandparent.find('.left-caret').not(this).toggleClass('right-caret left-caret');
+            grandparent.find(".sub-menu:visible").not(current).hide();
+            current.toggle();
+            e.stopPropagation();
+        });
+        $(".dropdown-menu > li > a:not(.trigger)").on("click",function(){
+            var root=$(this).closest('.dropdown');
+            root.find('.left-caret').toggleClass('right-caret left-caret');
+            root.find('.sub-menu:visible').hide();
+        });
+    });
+    </script>       
     </body>
 </html>
