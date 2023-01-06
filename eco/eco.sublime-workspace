@@ -1,0 +1,647 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Con",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indent XML"
+			],
+			[
+				"Package Cont",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			],
+			[
+				"view",
+				"View In Browser"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 152.0,
+		"history":
+		[
+			"install",
+			"control",
+			"install",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/diarioingeniero/eco"
+	],
+	"file_history":
+	[
+		"/E/diarioingeniero/eco/eco16_year_review_en.html",
+		"/E/diarioingeniero/eco/eco21_abengoa_protagonistas_es.html",
+		"/E/diarioingeniero/eco/eco16_brexit_es.html",
+		"/E/diarioingeniero/eco/eco16_FEDrateschanges_en.html",
+		"/E/diarioingeniero/eco/eco16_FEDrateschanges_es.html",
+		"/E/diarioingeniero/eco/eco16_itareferendum_en.html",
+		"/E/diarioingeniero/eco/eco16_itareferendum_es.html",
+		"/E/diarioingeniero/eco/eco16_petrol_en.html",
+		"/E/diarioingeniero/eco/eco16_petrol_es.html",
+		"/E/diarioingeniero/eco/eco16_UEbankproblems_en.html",
+		"/E/diarioingeniero/eco/eco16_UEbankproblems_es.html",
+		"/E/diarioingeniero/eco/eco16_usaelections_en.html",
+		"/E/diarioingeniero/eco/eco16_usaelections_es.html",
+		"/E/diarioingeniero/eco/eco16_year_review_es.html",
+		"/E/diarioingeniero/eco/eco17_abengoa_en.html",
+		"/E/diarioingeniero/eco/eco17_abengoa_es.html",
+		"/E/diarioingeniero/eco/eco17_best_inverter_keys_en.html",
+		"/E/diarioingeniero/eco/eco17_best_inverter_keys_es.html",
+		"/E/diarioingeniero/eco/eco17_BTC_bubble_en.html",
+		"/E/diarioingeniero/eco/eco17_BTC_bubble_es.html",
+		"/E/diarioingeniero/eco/eco17_elections_france_en.html",
+		"/E/diarioingeniero/eco/eco17_elections_france_es.html",
+		"/E/diarioingeniero/eco/eco17_FEDrateschanges_en.html",
+		"/E/diarioingeniero/eco/eco17_FEDrateschanges_es.html",
+		"/E/diarioingeniero/eco/eco17_popular_en.html",
+		"/E/diarioingeniero/eco/eco17_popular_es.html",
+		"/E/diarioingeniero/eco/eco17_referendum_cat_en.html",
+		"/E/diarioingeniero/eco/eco17_referendum_cat_es.html",
+		"/E/diarioingeniero/eco/eco17_usa_china_en.html",
+		"/E/diarioingeniero/eco/eco17_usa_china_es.html",
+		"/E/diarioingeniero/eco/eco17_usa_korea_en.html",
+		"/E/diarioingeniero/eco/eco17_usa_korea_es.html",
+		"/E/diarioingeniero/eco/eco17_why_not_banks_en.html",
+		"/E/diarioingeniero/eco/eco17_why_not_banks_es.html",
+		"/E/diarioingeniero/eco/eco17_year_review_en.html",
+		"/E/diarioingeniero/eco/eco17_year_review_es.html",
+		"/E/diarioingeniero/eco/eco18_abengoa_en.html",
+		"/E/diarioingeniero/eco/eco18_abengoa_es.html",
+		"/E/diarioingeniero/eco/eco18_acerinox_en.html",
+		"/E/diarioingeniero/eco/eco18_acerinox_es.html",
+		"/E/diarioingeniero/eco/eco18_arcelor_en.html",
+		"/E/diarioingeniero/eco/eco18_arcelor_es.html",
+		"/E/diarioingeniero/eco/eco18_bankia_en.html",
+		"/E/diarioingeniero/eco/eco18_bankia_es.html",
+		"/E/diarioingeniero/eco/eco18_bbva_en.html",
+		"/E/diarioingeniero/eco/eco18_bbva_es.html",
+		"/E/diarioingeniero/eco/eco18_BTC_bubble_en.html",
+		"/E/diarioingeniero/eco/eco18_BTC_bubble_es.html",
+		"/E/diarioingeniero/eco/eco18_cnmv_en.html",
+		"/E/diarioingeniero/eco/eco18_cnmv_es.html",
+		"/E/diarioingeniero/eco/eco18_dia_en.html",
+		"/E/diarioingeniero/eco/eco18_dia_es.html",
+		"/E/diarioingeniero/eco/eco18_duro_felguera_en.html",
+		"/E/diarioingeniero/eco/eco18_duro_felguera_es.html",
+		"/E/diarioingeniero/eco/eco18_gamesa_en.html",
+		"/E/diarioingeniero/eco/eco18_gamesa_es.html",
+		"/E/diarioingeniero/eco/eco18_iag_en.html",
+		"/E/diarioingeniero/eco/eco18_iag_es.html",
+		"/E/diarioingeniero/eco/eco18_indra_en.html",
+		"/E/diarioingeniero/eco/eco18_indra_es.html",
+		"/E/diarioingeniero/eco/eco18_melia_en.html",
+		"/E/diarioingeniero/eco/eco18_melia_es.html",
+		"/E/diarioingeniero/eco/eco18_ohl_en.html",
+		"/E/diarioingeniero/eco/eco18_ohl_es.html",
+		"/E/diarioingeniero/eco/eco18_referendum_cat_en.html",
+		"/E/diarioingeniero/eco/eco18_referendum_cat_es.html",
+		"/E/diarioingeniero/eco/eco18_repsol_en.html",
+		"/E/diarioingeniero/eco/eco18_repsol_es.html",
+		"/E/diarioingeniero/eco/eco18_sacyr_en.html",
+		"/E/diarioingeniero/eco/eco18_sacyr_es.html",
+		"/E/diarioingeniero/eco/eco18_santander_en.html",
+		"/E/diarioingeniero/eco/eco18_santander_es.html",
+		"/E/diarioingeniero/eco/eco18_tecnicas_en.html",
+		"/E/diarioingeniero/eco/eco18_tecnicas_es.html",
+		"/E/diarioingeniero/eco/eco18_telefonica_en.html",
+		"/E/diarioingeniero/eco/eco18_telefonica_es.html",
+		"/E/diarioingeniero/eco/eco18_usa_china_en.html",
+		"/E/diarioingeniero/eco/eco18_usa_china_es.html",
+		"/E/diarioingeniero/eco/eco18_usa_korea_en.html",
+		"/E/diarioingeniero/eco/eco18_usa_korea_es.html",
+		"/E/diarioingeniero/eco/eco18_year_review_en.html",
+		"/E/diarioingeniero/eco/eco18_year_review_es.html",
+		"/E/diarioingeniero/eco/eco19_abengoa2_en.html",
+		"/E/diarioingeniero/eco/eco19_abengoa2_es.html",
+		"/E/diarioingeniero/eco/eco19_abengoa_en.html",
+		"/E/diarioingeniero/eco/eco19_abengoa_es.html",
+		"/E/diarioingeniero/eco/eco19_acciona_en.html",
+		"/E/diarioingeniero/eco/eco19_acciona_es.html",
+		"/E/diarioingeniero/eco/eco19_acs_en.html",
+		"/E/diarioingeniero/eco/eco19_acs_es.html",
+		"/E/diarioingeniero/eco/eco19_amadeus_en.html",
+		"/E/diarioingeniero/eco/eco19_amadeus_es.html",
+		"/E/diarioingeniero/eco/eco19_BTC_bubble_en.html",
+		"/E/diarioingeniero/eco/eco19_BTC_bubble_es.html",
+		"/E/diarioingeniero/eco/eco19_duro_felguera_en.html",
+		"/E/diarioingeniero/eco/eco19_duro_felguera_es.html",
+		"/E/diarioingeniero/eco/eco19_enagas_en.html",
+		"/E/diarioingeniero/eco/eco19_enagas_es.html",
+		"/E/diarioingeniero/eco/eco19_endesa_en.html",
+		"/E/diarioingeniero/eco/eco19_endesa_es.html",
+		"/E/diarioingeniero/eco/eco19_eur_usd_en.html",
+		"/E/diarioingeniero/eco/eco19_eur_usd_es.html",
+		"/E/diarioingeniero/eco/eco19_fcc_en.html",
+		"/E/diarioingeniero/eco/eco19_fcc_es.html",
+		"/E/diarioingeniero/eco/eco19_ferrovial_en.html",
+		"/E/diarioingeniero/eco/eco19_ferrovial_es.html",
+		"/E/diarioingeniero/eco/eco19_grupo_san_jose_en.html",
+		"/E/diarioingeniero/eco/eco19_grupo_san_jose_es.html",
+		"/E/diarioingeniero/eco/eco19_iberdrola_en.html",
+		"/E/diarioingeniero/eco/eco19_iberdrola_es.html",
+		"/E/diarioingeniero/eco/eco19_naturgy_en.html",
+		"/E/diarioingeniero/eco/eco19_naturgy_es.html",
+		"/E/diarioingeniero/eco/eco19_nyesa_en.html",
+		"/E/diarioingeniero/eco/eco19_nyesa_es.html",
+		"/E/diarioingeniero/eco/eco19_red_electrica_en.html",
+		"/E/diarioingeniero/eco/eco19_red_electrica_es.html",
+		"/E/diarioingeniero/eco/eco19_sacyr_en.html",
+		"/E/diarioingeniero/eco/eco19_sacyr_es.html",
+		"/E/diarioingeniero/eco/eco19_sellos_en.html",
+		"/E/diarioingeniero/eco/eco19_sellos_es.html",
+		"/E/diarioingeniero/eco/eco19_sniace_en.html",
+		"/E/diarioingeniero/eco/eco19_sniace_es.html",
+		"/E/diarioingeniero/eco/eco19_unicaja_en.html",
+		"/E/diarioingeniero/eco/eco19_unicaja_es.html",
+		"/E/diarioingeniero/eco/eco19_urbas_en.html",
+		"/E/diarioingeniero/eco/eco19_urbas_es.html",
+		"/E/diarioingeniero/eco/eco19_usa_china_en.html",
+		"/E/diarioingeniero/eco/eco19_usa_china_es.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+			"",
+			"\t",
+			"",
+			"ecodiario_es_mv",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"href=\"/favicons",
+			"favicons",
+			"href=\"contactme_es",
+			"href=\"avisolegal",
+			"href=\"blog_04_es",
+			"href=\"eco/eco21_unicaja",
+			"/diarioingeniero/imags",
+			"href=\"aboutme_es",
+			"href=\"viajes_iberia",
+			"mis_sitios/",
+			"../emprender/wa_uk_",
+			"emprender/wa_fr",
+			"../emprender/wa_fr",
+			"../emprender/wa_uk",
+			"avisolegal_es",
+			"contactme_e",
+			"href=\"aboutme",
+			"href=\"eco_11",
+			"background:url('//diarioingeniero/imags",
+			"src=\"//diarioingeniero/imags",
+			"href=\"blog_04_es",
+			"href=\"viajes_iberia_es",
+			"href=\"mis_sitios",
+			"../../emprender/wa",
+			"emprender/wa",
+			"href=\"emprender/wa_uk_main",
+			"..../css",
+			"js/app.js",
+			"src=\"/diarioingeniero/imags",
+			"href=\"/diarioingeniero/blog",
+			"/../imags/blog",
+			"house0",
+			"house",
+			"/css/style_s.css",
+			"/diarioingeniero/imags/blog/blog",
+			"/diarioingeniero/imags/",
+			"href=\"blog/",
+			"/blog/blog16",
+			"/blog/blog/",
+			"        <div id=\"inicial\" class=\"row row-offcanvas row-offcanvas-left content_l\">  \n            <div class=\"col-lg-0             <div class=\"col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft\" id=\"sidebar\">-0  sidebar-offcanvas\" id=\"sidebar\" style=\"margin-top:0px; margin-left:10px; \">",
+			"/imags/",
+			"favicons/favicon_emprender.png",
+			"//css/bootstrap",
+			"css/",
+			"imags/",
+			"/../imags",
+			"../imags",
+			"blog/imags",
+			"\">\n",
+			"imags/",
+			"imags/banners/emprender/",
+			"blog/emprender/wa_",
+			"blog22_",
+			"blog21_",
+			"blog20_",
+			"blog19_",
+			"blog18_",
+			"blog17_",
+			"blog16_",
+			"eco22_",
+			"eco21_",
+			"eco20_",
+			"eco19_",
+			"eco18_",
+			"eco17_",
+			"eco16_",
+			"imags/guada/historia/mis_sitios/gu/gu_",
+			"gu_",
+			"gc_l_",
+			"gc_s_",
+			"gc_sindice",
+			"gc_lindice",
+			"gc_main",
+			"gc_isla",
+			"gc_historia",
+			"gc_gast",
+			"gc_l_",
+			"gc_s_",
+			"wa_uk",
+			"gc_",
+			"wa_fr_",
+			"wa_uk_",
+			"blog22_es_viajes1_iberia_en",
+			"blog22_es_viajes2_iberia_en",
+			"blog22_es_viajes3_iberia_en",
+			"blog22_es_viajes4_iberia_en",
+			"blog22_es_viajes5_iberia_en",
+			"blog22_es_viajes6_iberia_en",
+			"blog22_es_viajes7_iberia_en",
+			"blog22_es_viajes8_iberia_en",
+			"blog22_es_viajes9_iberia_en",
+			"blog22_es_viajes10_iberia_en",
+			"blog22_es_viajes14_iberia_en",
+			"blog22_es_viajes14_iberia_es",
+			"blog22_es_viajes13_iberia_es",
+			"blog22_es_viajes12_iberia_es",
+			"blog22_es_viajes11_iberia_es",
+			"blog22_es_viajes10_iberia_es",
+			"blog22_es_viajes9_iberia_es",
+			"blog22_es_viajes8_iberia_es",
+			"blog22_es_viajes7_iberia_es",
+			"blog22_es_viajes/iberia/viajes6_iberia_es",
+			"blog22_es_viajes/iberia/viajes5_iberia_es",
+			"blog22_es_viajes/iberia/viajes4_iberia_es",
+			"blog22_es_viajes/iberia/viajes3_iberia_es",
+			"blog22_es_viajes/iberia/viajes2_iberia_es",
+			"blog22_es_viajes/iberia/viajes1_iberia_es",
+			"viajes6_iberia_es",
+			"viajes5_iberia_es",
+			"viajes4_iberia_es",
+			"viajes3_iberia_es",
+			"viajes2_iberia_es",
+			"viajes1_iberia_es",
+			"viajes_iberia_es",
+			"blog22_es_viajes_iberia",
+			"080402-01-ecija",
+			"empece",
+			"080101-18-cordoba",
+			"080301-04-lucena",
+			"                    <",
+			"right_s",
+			"viajes4",
+			"viajes1",
+			"Jaen",
+			"Martos",
+			"viajes1",
+			"viajes2",
+			"            <div class=\"container-fluid  d-none d-md-block\"\n                style=\"background-size: cover;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"href=\"../favicons",
+			"../favicons",
+			"href=\"../contactme_es",
+			"href=\"../avisolegal",
+			"href=\"../blog_04_es",
+			"href=\"eco21_unicaja",
+			"../imags",
+			"href=\"../aboutme_es",
+			"href=\"../viajes_iberia",
+			"../mis_sitios/",
+			"../emprender/wa_uk/wa_uk_",
+			"../emprender/wa_fr/wa_fr",
+			"../emprender/wa_uk/wa_uk",
+			"../avisolegal_es",
+			"../contactme_e",
+			"href=\"../aboutme",
+			"href=\"../eco_11",
+			"background:url('../imags",
+			"src=\"../imags",
+			"href=\"../blog_04_es",
+			"href=\"../viajes/iberia/viajes_iberia_es",
+			"href=\"../mis_sitios",
+			"../emprender/wa",
+			"href=\"../emprender/wa_uk_main",
+			"../css",
+			"../js/app.js",
+			"src=\"../imags",
+			"href=\"../blog",
+			"../imags/blog",
+			"../css/style_s.css",
+			"../imags/blog/blog",
+			"../imags/",
+			"href=\"/diarioingeniero/blog/",
+			"/blog/",
+			"        <div id=\"inicial\" class=\"row row-offcanvas row-offcanvas-left content_l\">  \n            <div class=\"col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft\" id=\"sidebar\">",
+			"/diarioingeniero/imags/",
+			"/diarioingeniero/",
+			"/favicons/favicon_emprender.png",
+			"/css/bootstrap",
+			"/css/",
+			"/imags/",
+			"/imags",
+			"/../imags",
+			"../imags/",
+			"../imags/banners/",
+			"imags/banners/",
+			"emprender/wa_",
+			"blog/blog22_",
+			"blog/blog21_",
+			"blog/blog20_",
+			"blog/blog19_",
+			"blog/blog18_",
+			"blog/blog17_",
+			"blog/blog16_",
+			"eco/eco22_",
+			"eco/eco21_",
+			"eco/eco20_",
+			"eco/eco19_",
+			"eco/eco18_",
+			"eco/eco17_",
+			"eco/eco16_",
+			"imags/guada/historia/gu_",
+			"mis_sitios/gu/gu_",
+			"mis_sitios/gc/gc_sindice",
+			"mis_sitios/gc/gc_lindice",
+			"mis_sitios/gc/gc_main",
+			"mis_sitios/gc/gc_isla",
+			"mis_sitios/gc/gc_historia",
+			"mis_sitios/gc/gc_gast",
+			"mis_sitios/gc/gc_l_",
+			"mis_sitios/gc/gc_s_",
+			"mis_sitios/gc/gc_",
+			"emprender/wa_fr_",
+			"emprender/wa_uk_",
+			"viajes/iberia/viajes1_iberia_en",
+			"viajes/iberia/viajes2_iberia_en",
+			"viajes/iberia/viajes3_iberia_en",
+			"viajes/iberia/viajes4_iberia_en",
+			"viajes/iberia/viajes5_iberia_en",
+			"viajes/iberia/viajes6_iberia_en",
+			"viajes/iberia/viajes7_iberia_en",
+			"viajes/iberia/viajes8_iberia_en",
+			"viajes/iberia/viajes9_iberia_en",
+			"viajes/iberia/viajes10_iberia_en",
+			"viajes/iberia/viajes14_iberia_en",
+			"viajes/iberia/viajes14_iberia_es",
+			"viajes/iberia/viajes13_iberia_es",
+			"viajes/iberia/viajes12_iberia_es",
+			"viajes/iberia/viajes11_iberia_es",
+			"viajes/iberia/viajes10_iberia_es",
+			"viajes/iberia/viajes9_iberia_es",
+			"viajes/iberia/viajes8_iberia_es",
+			"viajes/iberia/viajes7_iberia_es",
+			"viajes/iberia/viajes6_iberia_es",
+			"viajes/iberia/viajes5_iberia_es",
+			"viajes/iberia/viajes4_iberia_es",
+			"viajes/iberia/viajes3_iberia_es",
+			"viajes/iberia/viajes2_iberia_es",
+			"viajes/iberia/viajes1_iberia_es",
+			"viajes/iberia/viajes6_iberia_es",
+			"viajes/iberia/viajes5_iberia_es",
+			"viajes/iberia/viajes4_iberia_es",
+			"viajes/iberia/viajes3_iberia_es",
+			"viajes/iberia/viajes2_iberia_es",
+			"viajes/iberia/viajes1_iberia_es",
+			"viajes/iberia/viajes_iberia_es",
+			"viajes_iberia",
+			"viajes5",
+			"viajes4",
+			"Jaén",
+			"viajes3",
+			"viajes2",
+			"            <div class=\"container-fluid  d-none d-lg-block\"\n                style=\"background-size: cover;",
+			"d-none d-lg-block",
+			"d-lg-none",
+			"d-md-none",
+			"",
+			"d-none d-md-block",
+			"d-md-none",
+			"hidden-md-up",
+			"d-md-none",
+			"",
+			"d-lg-none",
+			"d-lg-block",
+			"d-none d-md-block",
+			"d-md-none",
+			"        <a href=\"#inicial\"><img class=\"d-lg-none mob_arrow_up\"   src=\"imags/icons/arrow.png\"></a>",
+			"        <a href=\"#inicial\"><img class=\"d-none d-lg-block arrow_up\"     src=\"imags/icons/arrow.png\"></a>"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 78.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 133.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 127.0
+	},
+	"output.exec":
+	{
+		"height": 31.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Default/Syntax Tests.sublime-build",
+	"project": "eco.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
