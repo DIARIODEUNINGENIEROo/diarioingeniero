@@ -116,8 +116,8 @@
 	],
 	"file_history":
 	[
-		"/E/diarioingeniero/blog/blog22_es_burgos_01_es.html",
 		"/E/diarioingeniero/blog/blog16_uk_london_en.html",
+		"/E/diarioingeniero/blog/blog22_es_burgos_01_es.html",
 		"/E/diarioingeniero/blog/blog16_es_launch_es.html",
 		"/E/diarioingeniero/blog/blog16_fr_toulouse_en.html",
 		"/E/diarioingeniero/blog/blog16_fr_toulouse_es.html",
@@ -247,7 +247,7 @@
 	],
 	"find":
 	{
-		"height": 38.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -548,7 +548,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 24.0
+		"height": 29.0
 	},
 	"input":
 	{
