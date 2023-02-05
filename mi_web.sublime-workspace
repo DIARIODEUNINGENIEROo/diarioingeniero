@@ -8,93 +8,12 @@
 	"buffers":
 	[
 		{
-			"file": "blog/blog22_es_toledo_tres_culturas_es.html",
+			"file": "mis_sitios/gu/gu_s_ocejon_es.html",
 			"settings":
 			{
-				"buffer_size": 102370,
+				"buffer_size": 38152,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
-				[
-					4,
-					1,
-					"",
-					null,
-					"DAAAAKFyAQAAAAAAr3IBAAAAAAAWAAAALi4vaW1hZ3MvYmFubmVycy9pY29uc3FxAQAAAAAAf3EBAAAAAAAWAAAALi4vaW1hZ3MvYmFubmVycy9pY29uc3ZwAQAAAAAAhHABAAAAAAAWAAAALi4vaW1hZ3MvYmFubmVycy9pY29ucz5sAQAAAAAATGwBAAAAAAAWAAAALi4vaW1hZ3MvYmFubmVycy9pY29uc5prAQAAAAAAqGsBAAAAAAAWAAAALi4vaW1hZ3MvYmFubmVycy9pY29uc8BqAQAAAAAAzmoBAAAAAAAWAAAALi4vaW1hZ3MvYmFubmVycy9pY29uc/EaAAAAAAAA/xoAAAAAAAAWAAAALi4vaW1hZ3MvYmFubmVycy9pY29uc4QaAAAAAAAAkhoAAAAAAAAWAAAALi4vaW1hZ3MvYmFubmVycy9pY29uc8cZAAAAAAAA1RkAAAAAAAAWAAAALi4vaW1hZ3MvYmFubmVycy9pY29uczkZAAAAAAAARxkAAAAAAAAWAAAALi4vaW1hZ3MvYmFubmVycy9pY29uc4wKAAAAAAAAmgoAAAAAAAAWAAAALi4vaW1hZ3MvYmFubmVycy9pY29uc+oJAAAAAAAA+AkAAAAAAAAWAAAALi4vaW1hZ3MvYmFubmVycy9pY29ucw",
-					"AQAAAAAAAAABAAAATxkAAAAAAAA5GQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					10,
-					1,
-					"",
-					null,
-					"AgAAAI0YAAAAAAAAnhgAAAAAAAAZAAAALi4vaW1hZ3MvYmFubmVycy9iYW5uZXJzL7UIAAAAAAAAxggAAAAAAAAZAAAALi4vaW1hZ3MvYmFubmVycy9iYW5uZXJzLw",
-					"AQAAAAAAAAABAAAAphgAAAAAAACNGAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"file": "blog/blog22_es_toledo_tres_culturas_en.html",
-			"settings":
-			{
-				"buffer_size": 98253,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
-				[
-					25,
-					1,
-					"paste",
-					null,
-					"AgAAAIhTAAAAAAAASFQAAAAAAAAAAAAASFQAAAAAAABIVAAAAAAAACMBAAAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbGctMiBjb2wteGwtMiAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteGwtMSBjb2wtbGctMiBjb2wtbWQtMiBkLW5vbmUgZC1tZC1ibG9jayBkLWxnLWJsb2NrIGQteGwtYmxvY2sgc2lkZWJhci1vZmZjYW52YXMgc2lkZWJhcl9sZnQiIGlkPSJzaWRlYmFyIj4tMiBjb2wtc20tMCAgc2lkZWJhci1vZmZjYW52YXMgc2lkZWJhcl9sZnQiIGlkPSJzaWRlYmFyIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InNpZGViYXItbW9kdWxlIHRleHQtbGVmdCIgID4",
-					"AQAAAAAAAAABAAAAq1QAAAAAAACIUwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					28,
-					1,
-					"paste",
-					null,
-					"AgAAADJbAAAAAAAAvlsAAAAAAAAAAAAAvlsAAAAAAAC+WwAAAAAAANEAAAAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteGwtMTAgY29sLWxnLTEwICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14bC0xIGNvbC1sZy0yIGNvbC1tZC0yIGQtbm9uZSBkLW1kLWJsb2NrIGQtbGctYmxvY2sgZC14bC1ibG9jayBzaWRlYmFyLW9mZmNhbnZhcyBzaWRlYmFyX2xmdCIgaWQ9InNpZGViYXIiPi0xMCBjb2wtc20tMTIgY29udGVudF9jZW50ZXIiPg",
-					"AQAAAAAAAAABAAAAA1wAAAAAAAAyWwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					35,
-					1,
-					"paste",
-					null,
-					"AgAAAHEdAAAAAAAA/R0AAAAAAAAAAAAA/R0AAAAAAAD9HQAAAAAAANAAAAAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteGwtMTAgY29sLWxnLTggICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXhsLTEgY29sLWxnLTIgY29sLW1kLTIgZC1ub25lIGQtbWQtYmxvY2sgZC1sZy1ibG9jayBkLXhsLWJsb2NrIHNpZGViYXItb2ZmY2FudmFzIHNpZGViYXJfbGZ0IiBpZD0ic2lkZWJhciI+LTEwIGNvbC1zbS0xMiBjb250ZW50X2NlbnRlciI+",
-					"AQAAAAAAAAABAAAAQR4AAAAAAABxHQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					38,
-					6,
-					"left_delete",
-					null,
-					"BgAAAM4dAAAAAAAAzh0AAAAAAAAvAAAAPGRpdiBjbGFzcz0ibW9iX2NvbnRlbnRfc3BhY2UgZC1sZy1ub25lIj48L2Rpdj7KHQAAAAAAAModAAAAAAAABAAAACAgICDGHQAAAAAAAMYdAAAAAAAABAAAACAgICDCHQAAAAAAAMIdAAAAAAAABAAAACAgICC+HQAAAAAAAL4dAAAAAAAABAAAACAgICC9HQAAAAAAAL0dAAAAAAAAAQAAAAo",
-					"AQAAAAAAAAABAAAA/R0AAAAAAADOHQAAAAAAAAAAAAAAwGJA"
-				],
-				[
-					44,
-					1,
-					"paste",
-					null,
-					"AgAAAIMVAAAAAAAAQxYAAAAAAAAAAAAAQxYAAAAAAABDFgAAAAAAACQBAAAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbGctMiBjb2wteGwtMiAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteGwtMSBjb2wtbGctMiBjb2wtbWQtMiBkLW5vbmUgZC1tZC1ibG9jayBkLWxnLWJsb2NrIGQteGwtYmxvY2sgc2lkZWJhci1vZmZjYW52YXMgc2lkZWJhcl9sZnQiIGlkPSJzaWRlYmFyIj4tMiBjb2wtc20tMCAgc2lkZWJhci1vZmZjYW52YXMgc2lkZWJhcl9sZnQiIGlkPSJzaWRlYmFyIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InNpZGViYXItbW9kdWxlIHRleHQtbGVmdCIgID4K",
-					"AQAAAAAAAAABAAAApxYAAAAAAACDFQAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"contents": "Searching 874 files for \"            <div class=\"col-xl-10 col-lg-10             <div class=\"col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft\" id=\"sidebar\">-10 col-sm-12 content_center\">\" (case sensitive)\n\nE:\\diarioingeniero\\blog\\blog22_es_toledo_tres_culturas_en.html:\n  242              </div>  \n  243              <br><br><br>   \n  244:             <div class=\"col-xl-10 col-lg-10             <div class=\"col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft\" id=\"sidebar\">-10 col-sm-12 content_center\">                          \n  245                  <h2>San Juan de los Reyes monastery</h2>\n  246  \t\t\t\t\t<p> This is the second most important religious building in Toledo and one of the most visited along with the cathedral and the fortress. <br>\n\n1 match in 1 file\n",
-			"settings":
-			{
-				"buffer_size": 862,
-				"line_ending": "Windows",
-				"name": "Find Results",
-				"scratch": true
 			}
 		}
 	],
@@ -203,146 +122,148 @@
 	"expanded_folders":
 	[
 		"/E/diarioingeniero",
-		"/E/diarioingeniero/blog",
 		"/E/diarioingeniero/emprender",
 		"/E/diarioingeniero/emprender/wa_fr",
 		"/E/diarioingeniero/mis_sitios",
-		"/E/diarioingeniero/rss"
+		"/E/diarioingeniero/mis_sitios/gu",
+		"/E/diarioingeniero/rss",
+		"/E/diarioingeniero/viajes",
+		"/E/diarioingeniero/viajes/iberia"
 	],
 	"file_history":
 	[
-		"/E/diarioingeniero/eco_05_en.html",
-		"/E/diarioingeniero/blog/blog22_es_toledo_tres_culturas_es.html",
-		"/E/diarioingeniero/blog/blog22_es_toledo_tres_culturas_en.html",
-		"/E/diarioingeniero/emprender/wa_fr/wa_fr_health_en.html",
-		"/E/diarioingeniero/blog_06_en.html",
-		"/E/diarioingeniero/blog_06_es.html",
-		"/E/diarioingeniero/ca_main_es.html",
-		"/E/diarioingeniero/contactme_en.html",
-		"/E/diarioingeniero/contactme_es.html",
-		"/E/diarioingeniero/eco_01_en.html",
-		"/E/diarioingeniero/eco_01_es.html",
-		"/E/diarioingeniero/eco_02_en.html",
-		"/E/diarioingeniero/eco_02_es.html",
-		"/E/diarioingeniero/eco_03_en.html",
-		"/E/diarioingeniero/eco_03_es.html",
-		"/E/diarioingeniero/eco_04_en.html",
-		"/E/diarioingeniero/eco_04_es.html",
-		"/E/diarioingeniero/eco_05_es.html",
-		"/E/diarioingeniero/eco_06_en.html",
-		"/E/diarioingeniero/eco_06_es.html",
-		"/E/diarioingeniero/eco_07_en.html",
-		"/E/diarioingeniero/eco_07_es.html",
-		"/E/diarioingeniero/eco_08_en.html",
-		"/E/diarioingeniero/eco_08_es.html",
-		"/E/diarioingeniero/eco_09_en.html",
-		"/E/diarioingeniero/eco_09_es.html",
-		"/E/diarioingeniero/eco_10_en.html",
-		"/E/diarioingeniero/eco_10_es.html",
-		"/E/diarioingeniero/eco_11_en.html",
-		"/E/diarioingeniero/eco_11_es.html",
-		"/E/diarioingeniero/eco_12_en.html",
-		"/E/diarioingeniero/eco_12_es.html",
-		"/E/diarioingeniero/eco_13_en.html",
-		"/E/diarioingeniero/eco_13_es.html",
-		"/E/diarioingeniero/eco_14_en.html",
-		"/E/diarioingeniero/eco_14_es.html",
-		"/E/diarioingeniero/index.html",
-		"/E/diarioingeniero/aboutme_en.html",
-		"/E/diarioingeniero/aboutme_es.html",
-		"/E/diarioingeniero/avisolegal_en.html",
-		"/E/diarioingeniero/avisolegal_es.html",
-		"/E/diarioingeniero/blog_01_en.html",
-		"/E/diarioingeniero/blog_01_es.html",
-		"/E/diarioingeniero/blog_02_en.html",
-		"/E/diarioingeniero/blog_02_es.html",
-		"/E/diarioingeniero/blog_03_en.html",
-		"/E/diarioingeniero/blog_03_es.html",
-		"/E/diarioingeniero/blog_04_en.html",
-		"/E/diarioingeniero/blog_04_es.html",
-		"/E/diarioingeniero/blog_05_en.html",
-		"/E/diarioingeniero/blog_05_es.html",
-		"/E/diarioingeniero/viajes/iberia/viajes10_iberia_es.html",
-		"/E/diarioingeniero/viajes/iberia/viajes2_2_iberia_en.html",
-		"/E/diarioingeniero/emprender/wa_fr/wa_fr_main_en.html",
+		"/E/diarioingeniero/emprender/wa_fr/wa_fr_country_toulouse_es.html",
 		"/E/diarioingeniero/emprender/wa_fr/wa_fr_main_es.html",
+		"/E/diarioingeniero/emprender/wa_uk/wa_uk_main_en.html",
+		"/E/diarioingeniero/emprender/wa_fr/wa_fr_main_en.html",
 		"/E/diarioingeniero/emprender/wa_fr/wa_fr_markets_en.html",
 		"/E/diarioingeniero/emprender/wa_fr/wa_fr_markets_es.html",
 		"/E/diarioingeniero/emprender/wa_fr/wa_fr_social_en.html",
 		"/E/diarioingeniero/emprender/wa_fr/wa_fr_social_es.html",
-		"/E/diarioingeniero/emprender/wa_fr/wa_fr_telecoms_en.html",
-		"/E/diarioingeniero/emprender/wa_fr/wa_fr_telecoms_es.html",
 		"/E/diarioingeniero/emprender/wa_fr/wa_fr_tourism_en.html",
 		"/E/diarioingeniero/emprender/wa_fr/wa_fr_tourism_es.html",
+		"/E/diarioingeniero/emprender/wa_fr/wa_fr_transfer_en.html",
 		"/E/diarioingeniero/emprender/wa_fr/wa_fr_transfer_es.html",
 		"/E/diarioingeniero/emprender/wa_fr/wa_fr_transport_en.html",
 		"/E/diarioingeniero/emprender/wa_fr/wa_fr_transport_es.html",
 		"/E/diarioingeniero/emprender/wa_fr/wa_fr_work_en.html",
 		"/E/diarioingeniero/emprender/wa_fr/wa_fr_work_es.html",
-		"/E/diarioingeniero/emprender/wa_fr/wa_fr_transfer_en.html",
-		"/E/diarioingeniero/emprender/wa_fr/wa_fr_idiom_es.html",
-		"/E/diarioingeniero/emprender/wa_fr/wa_fr_idiom_en.html",
-		"/E/diarioingeniero/emprender/wa_fr/wa_fr_house_es.html",
-		"/E/diarioingeniero/emprender/wa_fr/wa_fr_house_en.html",
-		"/E/diarioingeniero/emprender/wa_fr/wa_fr_health_es.html",
-		"/E/diarioingeniero/emprender/wa_fr/wa_fr_country_toulouse_es.html",
-		"/E/diarioingeniero/emprender/wa_fr/wa_fr_country_toulouse_en.html",
-		"/E/diarioingeniero/emprender/wa_fr/wa_fr_country_paris_es.html",
-		"/E/diarioingeniero/emprender/wa_fr/wa_fr_country_paris_en.html",
-		"/E/diarioingeniero/emprender/wa_fr/wa_fr_country_es.html",
+		"/E/diarioingeniero/emprender/wa_uk/wa_uk_country_en.html",
+		"/E/diarioingeniero/emprender/wa_uk/wa_uk_country_es.html",
+		"/E/diarioingeniero/emprender/wa_uk/wa_uk_country_london_en.html",
+		"/E/diarioingeniero/emprender/wa_uk/wa_uk_country_london_es.html",
+		"/E/diarioingeniero/emprender/wa_uk/wa_uk_house_en.html",
+		"/E/diarioingeniero/emprender/wa_uk/wa_uk_house_es.html",
+		"/E/diarioingeniero/emprender/wa_uk/wa_uk_idiom_en.html",
+		"/E/diarioingeniero/emprender/wa_uk/wa_uk_idiom_es.html",
+		"/E/diarioingeniero/emprender/wa_uk/wa_uk_main_es.html",
+		"/E/diarioingeniero/emprender/wa_uk/wa_uk_markets_en.html",
+		"/E/diarioingeniero/emprender/wa_uk/wa_uk_markets_es.html",
+		"/E/diarioingeniero/emprender/wa_uk/wa_uk_social_en.html",
+		"/E/diarioingeniero/emprender/wa_uk/wa_uk_social_es.html",
+		"/E/diarioingeniero/emprender/wa_uk/wa_uk_tourism_en.html",
+		"/E/diarioingeniero/emprender/wa_uk/wa_uk_tourism_es.html",
+		"/E/diarioingeniero/emprender/wa_uk/wa_uk_transfer_en.html",
+		"/E/diarioingeniero/emprender/wa_uk/wa_uk_transfer_es.html",
+		"/E/diarioingeniero/emprender/wa_uk/wa_uk_transport_en.html",
+		"/E/diarioingeniero/emprender/wa_uk/wa_uk_transport_es.html",
+		"/E/diarioingeniero/emprender/wa_uk/wa_uk_work_en.html",
+		"/E/diarioingeniero/emprender/wa_uk/wa_uk_work_es.html",
 		"/E/diarioingeniero/emprender/wa_fr/wa_fr_country_en.html",
-		"/E/diarioingeniero/emprender/wa_fr/wa_fr_banks_es.html",
-		"/E/diarioingeniero/emprender/wa_fr/wa_fr_banks_en.html",
-		"/E/diarioingeniero/viajes/iberia/viajes6_1_iberia_es.html",
-		"/E/diarioingeniero/viajes/iberia/viajes2_0_iberia_es.html",
-		"/E/diarioingeniero/viajes/iberia/viajes2_2_iberia_es.html",
-		"/E/diarioingeniero/viajes/iberia/viajes2_0_iberia_en.html",
-		"/E/diarioingeniero/viajes/iberia/viajes2_1_iberia_en.html",
-		"/E/diarioingeniero/viajes/iberia/viajes2_iberia_es.html",
-		"/E/diarioingeniero/viajes/iberia/viajes3_iberia_es.html",
-		"/E/diarioingeniero/viajes/iberia/viajes1_iberia_es.html",
-		"/E/diarioingeniero/viajes/iberia/viajes1_2_iberia_es.html",
+		"/E/diarioingeniero/emprender/wa_fr/wa_fr_country_es.html",
+		"/E/diarioingeniero/emprender/wa_fr/wa_fr_country_paris_en.html",
+		"/E/diarioingeniero/emprender/wa_fr/wa_fr_country_paris_es.html",
+		"/E/diarioingeniero/emprender/wa_fr/wa_fr_country_toulouse_en.html",
+		"/E/diarioingeniero/emprender/wa_fr/wa_fr_health_en.html",
+		"/E/diarioingeniero/emprender/wa_fr/wa_fr_health_es.html",
+		"/E/diarioingeniero/emprender/wa_fr/wa_fr_house_en.html",
+		"/E/diarioingeniero/emprender/wa_fr/wa_fr_house_es.html",
+		"/E/diarioingeniero/viajes/iberia/viajes6_4_iberia_es.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_s_charco_azul_en.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_l_agaete_es.html",
+		"/E/diarioingeniero/emprender/wa_uk/wa_uk_telecoms_es.html",
 		"/E/diarioingeniero/viajes/iberia/viajes1_1_iberia_es.html",
-		"/E/diarioingeniero/viajes/iberia/viajes8_iberia_es.html",
-		"/E/diarioingeniero/viajes/iberia/viajes7_1_iberia_es.html",
-		"/E/diarioingeniero/viajes/iberia/viajes7_1_iberia_en.html",
-		"/E/diarioingeniero/viajes/iberia/viajes8_3_iberia_es.html",
-		"/E/diarioingeniero/lm_brianda_21/A_SergioA/html/Index.html",
-		"/E/diarioingeniero/css/_vti_cnf/social_uk_es.html",
+		"/E/diarioingeniero/viajes/iberia/viajes10_iberia_en.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_l_firgas_en.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_l_firgas_es.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_l_galdar_en.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_l_galdar_es.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_s_charco_azul_es.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_s_confital_en.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_s_confital_es.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_s_guayadeque_en.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_s_guayadeque_es.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_s_guigui_en.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_l_agaete_en.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_s_guigui_es.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_s_maspalomas_en.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_s_maspalomas_es.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_s_roque_nublo_en.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_s_roque_nublo_es.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_s_temisas_en.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_s_temisas_es.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_sindice_es.html",
+		"/E/diarioingeniero/mis_sitios/gu/gu_s_aguila_en.html",
+		"/E/diarioingeniero/mis_sitios/gu/gu_s_aguila_es.html",
+		"/E/diarioingeniero/mis_sitios/gu/gu_s_alarilla_en.html",
+		"/E/diarioingeniero/mis_sitios/gu/gu_s_alarilla_es.html",
+		"/E/diarioingeniero/mis_sitios/gu/gu_s_altotajo_en.html",
+		"/E/diarioingeniero/mis_sitios/gu/gu_s_altotajo_es.html",
+		"/E/diarioingeniero/mis_sitios/gu/gu_s_hundido_en.html",
+		"/E/diarioingeniero/mis_sitios/gu/gu_s_hundido_es.html",
+		"/E/diarioingeniero/mis_sitios/gu/gu_s_mesa_en.html",
+		"/E/diarioingeniero/mis_sitios/gu/gu_s_mesa_es.html",
+		"/E/diarioingeniero/mis_sitios/gu/gu_s_ocejon_en.html",
+		"/E/diarioingeniero/mis_sitios/gu/gu_s_ocejon_es.html",
+		"/E/diarioingeniero/mis_sitios/gu/gu_s_pietajo_en.html",
+		"/E/diarioingeniero/mis_sitios/gu/gu_h_5_en.html",
+		"/E/diarioingeniero/mis_sitios/gu/gu_h_5_es.html",
+		"/E/diarioingeniero/ca_main_es.html",
+		"/E/diarioingeniero/eco/eco17_FEDrateschanges_en.html",
+		"/E/diarioingeniero/eco/eco17_FEDrateschanges_es.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_l_palmas_es.html",
+		"/E/diarioingeniero/mis_sitios/gu/gu_s_pietajo_es.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_l_palmas_en.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_l_tejeda_en.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_l_tejeda_es.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_l_teror_en.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_s_brigidateror_es.html",
+		"/E/diarioingeniero/mis_sitios/gc/gc_s_brigidateror_en.html",
+		"/E/diarioingeniero/blog/blog17_es_firsttrip_en.html",
+		"/E/diarioingeniero/eco/eco17_abengoa_en.html",
+		"/E/diarioingeniero/eco/eco17_BTC_bubble_en.html",
+		"/E/diarioingeniero/eco/eco17_why_not_banks_en.html",
+		"/E/diarioingeniero/eco/eco17_why_not_banks_es.html",
+		"/E/diarioingeniero/eco/eco18_BTC_bubble_en.html",
+		"/E/diarioingeniero/eco/eco18_abengoa_en.html",
+		"/E/diarioingeniero/eco/eco18_acerinox_en.html",
+		"/E/diarioingeniero/eco/eco18_arcelor_en.html",
+		"/E/diarioingeniero/eco/eco18_bankia_en.html",
+		"/E/diarioingeniero/eco/eco18_bbva_en.html",
+		"/E/diarioingeniero/eco/eco18_dia_en.html",
+		"/E/diarioingeniero/eco/eco18_duro_felguera_en.html",
+		"/E/diarioingeniero/eco/eco18_gamesa_en.html",
+		"/E/diarioingeniero/eco/eco18_iag_en.html",
+		"/E/diarioingeniero/eco/eco18_indra_en.html",
+		"/E/diarioingeniero/eco/eco18_melia_en.html",
+		"/E/diarioingeniero/eco/eco18_ohl_en.html",
+		"/E/diarioingeniero/eco/eco18_referendum_cat_en.html",
+		"/E/diarioingeniero/eco/eco18_referendum_cat_es.html",
+		"/E/diarioingeniero/eco/eco21_abengoa_protagonistas_en.html",
+		"/E/diarioingeniero/eco/eco21_abengoa_protagonistas_es.html",
+		"/E/diarioingeniero/lm_brianda_21/A_Daniel/A_Daniel.html",
 		"/E/diarioingeniero/lm_brianda_21/A_Daniel/Subpagina_1.html",
-		"/E/diarioingeniero/lm_brianda_21/A_Eder/cantabria/adosado-islares.html",
-		"/E/diarioingeniero/lm_brianda_21/A_Eder/cantabria/adosado-laiseca.html",
-		"/E/diarioingeniero/lm_brianda_21/A_Eder/cantabria/chalet-loma.html",
-		"/E/diarioingeniero/lm_brianda_21/A_Eder/cantabria/chalet-montealegre.html",
-		"/E/diarioingeniero/lm_brianda_21/A_Eder/cantabria/chalet-pareado-cerdigo.html",
-		"/E/diarioingeniero/lm_brianda_21/A_Eder/cantabria/chalet-pareado-mioño.html",
-		"/E/diarioingeniero/lm_brianda_21/A_Eder/cantabria/duplex-antonio-burgos.html",
-		"/E/diarioingeniero/lm_brianda_21/A_Eder/cantabria/duplex-cotolinog.html",
-		"/E/diarioingeniero/lm_brianda_21/A_Eder/cantabria/duplex-teresa-calcuta.html",
-		"/E/diarioingeniero/lm_brianda_21/A_Eder/cantabria/piso-barrio-marineros.html",
-		"/E/diarioingeniero/lm_brianda_21/A_Eder/cantabria/piso-calle-plazuela.html",
-		"/E/diarioingeniero/lm_brianda_21/A_Eder/cantabria/piso-calle-primeromayo.html",
-		"/E/diarioingeniero/lm_brianda_21/A_Eder/cantabria/piso-calle-ronda.html",
-		"/E/diarioingeniero/lm_brianda_21/A_Eder/cantabria/piso-calle-ronda72.html",
-		"/E/diarioingeniero/lm_brianda_21/A_Eder/cantabria/piso-calle-voluntariado.html",
-		"/E/diarioingeniero/lm_brianda_21/A_Eder/cantabria/piso-mendez-pelayo.html",
-		"/E/diarioingeniero/lm_brianda_21/A_Eder/cantabria/piso-nicolas-torre.html",
-		"/E/diarioingeniero/lm_brianda_21/A_Eder/cantabria/piso-pocillo.html",
-		"/E/diarioingeniero/lm_brianda_21/A_Eder/css/estilos.css",
-		"/E/diarioingeniero/lm_brianda_21/A_Eder/js/video.js",
-		"/E/diarioingeniero/lm_brianda_21/A_Natalia/css_ANATALIA/estilo-razas.css",
-		"/E/diarioingeniero/lm_brianda_21/A_Reza/Rezacss/bootstrap-grid.css.map",
-		"/E/diarioingeniero/lm_brianda_21/A_Reza/Rezacss/bootstrap-grid.min.css.map",
-		"/E/diarioingeniero/lm_brianda_21/A_Reza/Rezacss/bootstrap-reboot.css.map",
-		"/E/diarioingeniero/lm_brianda_21/A_Reza/Rezacss/bootstrap-reboot.min.css.map",
-		"/E/diarioingeniero/lm_brianda_21/A_Reza/Rezacss/bootstrap-utilities.css.map",
-		"/E/diarioingeniero/lm_brianda_21/A_Reza/Rezacss/bootstrap-utilities.min.css.map",
-		"/E/diarioingeniero/lm_brianda_21/A_Reza/Rezacss/bootstrap.css.map",
-		"/E/diarioingeniero/lm_brianda_21/A_Reza/Rezacss/bootstrap.min.css.map"
+		"/E/diarioingeniero/lm_brianda_21/A_Eder/bizkaia.html",
+		"/E/diarioingeniero/lm_brianda_21/A_Eder/cantabria.html",
+		"/E/diarioingeniero/lm_brianda_21/A_Eder/castro.html",
+		"/E/diarioingeniero/lm_brianda_21/A_Eder/contact.html",
+		"/E/diarioingeniero/lm_brianda_21/A_Eder/index.html",
+		"/E/diarioingeniero/lm_brianda_21/A_Eder/islares.html",
+		"/E/diarioingeniero/lm_brianda_21/A_Eder/mioño.html"
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -361,6 +282,28 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"../../imags/../../",
+			"emprender/wa_uk/wa_uk/",
+			"emprender/wa_fr/wa_fr/",
+			"                <div id=\"myCarousel\" class=\"carousel slide bg-inverse  col-lg-6col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft\" id=\"sidebar\">-12\" style=\"vertical-align:middle\"  data-ride=\"carousel\">",
+			"\t\t\t\t<div class='card container main-tab col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block' style=\"margin-bottom: 20px\">",
+			"\t\t\t\t<div class='card container main-tab col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block' style=\"margin-bottom: 20px\"> \n\t\t\t\t<div class='card container main-tab col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block' style=\"margin-bottom: 20px\">",
+			"            <div class=\"col-12 col-lg-8col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft\" id=\"sidebar\">-8 col-xs-12\" style=\"left: 10px; padding-right:30px; text-align:justify;\">",
+			"\t\t\t\t<div class='card container main-tab col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block'> style=\"margin-bottom: 20px\">",
+			"\t\t\t\t<div class='card container main-tab col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block'> style=\"margin-bottom: 20px\"> ",
+			"\t\t\t\t<div class='card container main-tab col-lg-6col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft\" id=\"sidebar\">-12' style=\"margin-bottom: 20px\">",
+			"../../imags/gran_canaria/senderismo/mapas/mis_sitios/gc/gc",
+			"                    <div class='card container main-tab col-xl-1 col-lg-2 col-md-2 col-sm-4' style=\"margin-bottom: 20px\">",
+			"             <div class=\"col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft",
+			"main-tab             <div class=\"col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft\" id=\"sidebar\">-4 col-sm-4' style=\"margin-bottom: 20px\">",
+			" ",
+			"sidebar",
+			"CP,ARCA",
+			"../../imags/gran_canaria/lugares/mapas/mis_sitios/gc/gc",
+			"src=\"../../imags/guada/senderismo/wikiloc/mis_sitios/gu/gu",
+			"src=\"../../imags/guada/senderismo/mapas/mis_sitios/gu/gu",
+			"src=\"../../imags/guada/senderismo/mapas/mis_sitios/gu/gu_s_altotajo.jpg",
+			"comarcas",
 			"            <div class=\"col-xl-10 col-lg-10             <div class=\"col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft\" id=\"sidebar\">-10 col-sm-12 content_center\">",
 			"../imags/banners/banners/",
 			"../imags/banners/",
@@ -466,29 +409,7 @@
 			"blog22_es_viajes/iberia/viajes4_iberia_es",
 			"blog22_es_viajes/iberia/viajes3_iberia_es",
 			"blog22_es_viajes/iberia/viajes2_iberia_es",
-			"blog22_es_viajes/iberia/viajes1_iberia_es",
-			"viajes6_iberia_es",
-			"viajes5_iberia_es",
-			"viajes4_iberia_es",
-			"viajes3_iberia_es",
-			"viajes2_iberia_es",
-			"viajes1_iberia_es",
-			"viajes_iberia_es",
-			"blog22_es_viajes_iberia",
-			"080402-01-ecija",
-			"empece",
-			"080101-18-cordoba",
-			"080301-04-lucena",
-			"                    <",
-			"right_s",
-			"viajes4",
-			"viajes1",
-			"Jaen",
-			"Martos",
-			"viajes1",
-			"viajes2",
-			"            <div class=\"container-fluid  d-none d-md-block\"\n                style=\"background-size: cover;",
-			"hidden-lg-down"
+			"blog22_es_viajes/iberia/viajes1_iberia_es"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -496,6 +417,26 @@
 		"regex": false,
 		"replace_history":
 		[
+			"../../imags/",
+			"emprender/wa_uk/",
+			"emprender/wa_fr/",
+			"                <div id=\"myCarousel\" class=\"carousel slide bg-inverse col-lg-4 col-md-4 d-none d-md-block d-lg-block d-xl-block\" style=\"vertical-align:middle\"  data-ride=\"carousel\">",
+			"                <div id=\"myCarousel\" class=\"carousel slide bg-inverse col-lg-4 col-md-4 d-none d-md-block d-lg-block d-xl-block style=\"vertical-align:middle\"  data-ride=\"carousel\">",
+			"\t\t\t\t<div class='card container main-tab col-lg-4 col-md-4 d-none d-md-block d-lg-block d-xl-block' style=\"margin-bottom: 20px\">",
+			"\t\t\t\t<div class='card container main-tab col-lg-4 col-md-4 d-none d-md-block d-lg-block d-xl-block' style=\"margin-bottom: 20px\">\n                <div class=\"mob_content_space d-lg-none\"></div>",
+			"            <div class=\"col-12 col-xl-10 col-lg-9 col-md-9 content_center\"> \n                <div class=\"mob_content_space d-lg-none\"></div>",
+			"            <div class=\"col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft\" id=\"sidebar\"> ",
+			"\t\t\t\t<div class='card container main-tab col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block' style=\"margin-bottom: 20px\"> ",
+			"\t\t\t\t<div class='card container main-tab col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block'> style=\"margin-bottom: 20px\">",
+			"../../imags/gran_canaria/senderismo/mapas/gc",
+			"                    <div class='card container main-tab col-md-4 col-sm-4' style=\"margin-bottom: 20px\">",
+			"col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft",
+			"main-tab col-xl-1 col-lg-2 col-md-2 col-sm-4' style=\"margin-bottom: 20px\">",
+			"",
+			"../../imags/gran_canaria/lugares/mapas/gc",
+			"src=\"../../imags/guada/senderismo/wikiloc/gu",
+			"src=\"../../imags/guada/senderismo/mapas/gu",
+			"src=\"../../imags/guada/senderismo/mapas/gu_s_altotajo.jpg",
 			"../imags/banners/",
 			"../imags/icons",
 			"../imags/blog/blog22/toledo/",
@@ -603,27 +544,7 @@
 			"viajes2",
 			"            <div class=\"container-fluid  d-none d-lg-block\"\n                style=\"background-size: cover;",
 			"d-none d-lg-block",
-			"d-lg-none",
-			"d-md-none",
-			"",
-			"d-none d-md-block",
-			"d-md-none",
-			"hidden-md-up",
-			"d-md-none",
-			"",
-			"d-lg-none",
-			"d-lg-block",
-			"d-none d-md-block",
-			"d-md-none",
-			"        <a href=\"#inicial\"><img class=\"d-lg-none mob_arrow_up\"   src=\"imags/icons/arrow.png\"></a>",
-			"        <a href=\"#inicial\"><img class=\"d-none d-lg-block arrow_up\"     src=\"imags/icons/arrow.png\"></a>",
-			"        <a href=\"#inicial\"><img class=\"d-md-block d-sm-block mob_arrow_up\"   src=\"imags/icons/arrow.png\"></a>",
-			"        <a href=\"#inicial\"><img class=\"d-md-none d-sm-none arrow_up\"     src=\"imags/icons/arrow.png\"></a>",
-			"        <a href=\"#inicial\"><img class=\"d-lg-block d-xl-block arrow_up\"     src=\"imags/icons/arrow.png\"></a>",
-			"        <a href=\"#inicial\"><img class=\"d-md-block d-sm-block mob_arrow_up\"   src=\"imags/icons/arrow.png\"></a>   ",
-			"        <a href=\"#inicial\"><img class=\"d-md-none d-sm-none arrow_up\"     src=\"imags/icons/arrow.png\"></a>",
-			"                <div id=\"myCarousel\" class=\"carousel slide bg-inverse d-lg-none d-xl-none blog_carousel\" data-ride=\"carousel\">\n",
-			"                <img class=\"img-fluid hidden-lg-up mob_banner_fmt\" src=\"imags/banners/ecodiario_en_mv.jpg\" alt=”Logo” />\n                <div class=\"container-fluid img-fluid hidden-lg-up row mob_header_fmt\">                    \n                    <a class=\"navbar-brand\" href=\"blog_04_en.html\">Blog</a>\n"
+			"d-lg-none"
 		],
 		"reverse": false,
 		"scrollbar_highlights": true,
@@ -640,250 +561,14 @@
 			[
 				{
 					"buffer": 0,
-					"file": "blog/blog22_es_toledo_tres_culturas_es.html",
+					"file": "mis_sitios/gu/gu_s_ocejon_es.html",
 					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 102370,
+						"buffer_size": 38152,
 						"regions":
 						{
-						},
-						"selection":
-						[
-							[
-								7161,
-								6969
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1996.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "blog/blog22_es_toledo_tres_culturas_en.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 98253,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5699,
-								5699
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										7411,
-										7414
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/tag.png",
-										"region.orangish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										5660,
-										5663
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1547.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 862,
-						"regions":
-						{
-							"match":
-							{
-								"flags": 112,
-								"regions":
-								[
-									[
-										388,
-										597
-									]
-								],
-								"scope": ""
-							}
 						},
 						"selection":
 						[
@@ -899,12 +584,27 @@
 							{
 								"close":
 								{
+									"1":
+									[
+										14,
+										15
+									]
 								},
 								"icon":
 								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"region.orangish"
+									]
 								},
 								"open":
 								{
+									"1":
+									[
+										0,
+										1
+									]
 								},
 								"unmatched":
 								{
@@ -912,11 +612,16 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -927,61 +632,51 @@
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
 							],
-							"detect_indentation": false,
-							"line_numbers": false,
-							"output_tag": 1,
-							"result_base_dir": "",
-							"result_file_regex": "^([^ \t].*):$",
-							"result_line_regex": "^ +([0-9]+):",
-							"scroll_past_end": true,
-							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 251.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"stack_multiselect": false,
 					"type": "text"
 				}
@@ -1043,7 +738,7 @@
 	"project": "mi_web.sublime-project",
 	"replace":
 	{
-		"height": 74.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1081,7 +776,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 287.0,
+	"side_bar_width": 293.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
