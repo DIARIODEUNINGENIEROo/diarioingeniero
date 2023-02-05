@@ -8,32 +8,94 @@
 	"buffers":
 	[
 		{
-			"file": "eco_05_en.html",
+			"file": "blog/blog22_es_toledo_tres_culturas_es.html",
 			"settings":
 			{
-				"buffer_size": 39591,
+				"buffer_size": 102370,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			},
 			"undo_stack":
 			[
 				[
-					1,
+					4,
 					1,
 					"",
 					null,
-					"AQAAAK4LAAAAAAAAzgsAAAAAAAAaAAAAaHJlZj0iZW1wcmVuZGVyL3dhX3VrX21haW4",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+					"DAAAAKFyAQAAAAAAr3IBAAAAAAAWAAAALi4vaW1hZ3MvYmFubmVycy9pY29uc3FxAQAAAAAAf3EBAAAAAAAWAAAALi4vaW1hZ3MvYmFubmVycy9pY29uc3ZwAQAAAAAAhHABAAAAAAAWAAAALi4vaW1hZ3MvYmFubmVycy9pY29ucz5sAQAAAAAATGwBAAAAAAAWAAAALi4vaW1hZ3MvYmFubmVycy9pY29uc5prAQAAAAAAqGsBAAAAAAAWAAAALi4vaW1hZ3MvYmFubmVycy9pY29uc8BqAQAAAAAAzmoBAAAAAAAWAAAALi4vaW1hZ3MvYmFubmVycy9pY29uc/EaAAAAAAAA/xoAAAAAAAAWAAAALi4vaW1hZ3MvYmFubmVycy9pY29uc4QaAAAAAAAAkhoAAAAAAAAWAAAALi4vaW1hZ3MvYmFubmVycy9pY29uc8cZAAAAAAAA1RkAAAAAAAAWAAAALi4vaW1hZ3MvYmFubmVycy9pY29uczkZAAAAAAAARxkAAAAAAAAWAAAALi4vaW1hZ3MvYmFubmVycy9pY29uc4wKAAAAAAAAmgoAAAAAAAAWAAAALi4vaW1hZ3MvYmFubmVycy9pY29uc+oJAAAAAAAA+AkAAAAAAAAWAAAALi4vaW1hZ3MvYmFubmVycy9pY29ucw",
+					"AQAAAAAAAAABAAAATxkAAAAAAAA5GQAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					2,
+					10,
 					1,
 					"",
 					null,
-					"AQAAAB0MAAAAAAAAPQwAAAAAAAAaAAAAaHJlZj0iZW1wcmVuZGVyL3dhX2ZyX21haW4",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+					"AgAAAI0YAAAAAAAAnhgAAAAAAAAZAAAALi4vaW1hZ3MvYmFubmVycy9iYW5uZXJzL7UIAAAAAAAAxggAAAAAAAAZAAAALi4vaW1hZ3MvYmFubmVycy9iYW5uZXJzLw",
+					"AQAAAAAAAAABAAAAphgAAAAAAACNGAAAAAAAAAAAAAAAAPC/"
 				]
 			]
+		},
+		{
+			"file": "blog/blog22_es_toledo_tres_culturas_en.html",
+			"settings":
+			{
+				"buffer_size": 98253,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					25,
+					1,
+					"paste",
+					null,
+					"AgAAAIhTAAAAAAAASFQAAAAAAAAAAAAASFQAAAAAAABIVAAAAAAAACMBAAAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbGctMiBjb2wteGwtMiAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteGwtMSBjb2wtbGctMiBjb2wtbWQtMiBkLW5vbmUgZC1tZC1ibG9jayBkLWxnLWJsb2NrIGQteGwtYmxvY2sgc2lkZWJhci1vZmZjYW52YXMgc2lkZWJhcl9sZnQiIGlkPSJzaWRlYmFyIj4tMiBjb2wtc20tMCAgc2lkZWJhci1vZmZjYW52YXMgc2lkZWJhcl9sZnQiIGlkPSJzaWRlYmFyIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InNpZGViYXItbW9kdWxlIHRleHQtbGVmdCIgID4",
+					"AQAAAAAAAAABAAAAq1QAAAAAAACIUwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"paste",
+					null,
+					"AgAAADJbAAAAAAAAvlsAAAAAAAAAAAAAvlsAAAAAAAC+WwAAAAAAANEAAAAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteGwtMTAgY29sLWxnLTEwICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14bC0xIGNvbC1sZy0yIGNvbC1tZC0yIGQtbm9uZSBkLW1kLWJsb2NrIGQtbGctYmxvY2sgZC14bC1ibG9jayBzaWRlYmFyLW9mZmNhbnZhcyBzaWRlYmFyX2xmdCIgaWQ9InNpZGViYXIiPi0xMCBjb2wtc20tMTIgY29udGVudF9jZW50ZXIiPg",
+					"AQAAAAAAAAABAAAAA1wAAAAAAAAyWwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"paste",
+					null,
+					"AgAAAHEdAAAAAAAA/R0AAAAAAAAAAAAA/R0AAAAAAAD9HQAAAAAAANAAAAAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteGwtMTAgY29sLWxnLTggICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXhsLTEgY29sLWxnLTIgY29sLW1kLTIgZC1ub25lIGQtbWQtYmxvY2sgZC1sZy1ibG9jayBkLXhsLWJsb2NrIHNpZGViYXItb2ZmY2FudmFzIHNpZGViYXJfbGZ0IiBpZD0ic2lkZWJhciI+LTEwIGNvbC1zbS0xMiBjb250ZW50X2NlbnRlciI+",
+					"AQAAAAAAAAABAAAAQR4AAAAAAABxHQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					6,
+					"left_delete",
+					null,
+					"BgAAAM4dAAAAAAAAzh0AAAAAAAAvAAAAPGRpdiBjbGFzcz0ibW9iX2NvbnRlbnRfc3BhY2UgZC1sZy1ub25lIj48L2Rpdj7KHQAAAAAAAModAAAAAAAABAAAACAgICDGHQAAAAAAAMYdAAAAAAAABAAAACAgICDCHQAAAAAAAMIdAAAAAAAABAAAACAgICC+HQAAAAAAAL4dAAAAAAAABAAAACAgICC9HQAAAAAAAL0dAAAAAAAAAQAAAAo",
+					"AQAAAAAAAAABAAAA/R0AAAAAAADOHQAAAAAAAAAAAAAAwGJA"
+				],
+				[
+					44,
+					1,
+					"paste",
+					null,
+					"AgAAAIMVAAAAAAAAQxYAAAAAAAAAAAAAQxYAAAAAAABDFgAAAAAAACQBAAAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbGctMiBjb2wteGwtMiAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteGwtMSBjb2wtbGctMiBjb2wtbWQtMiBkLW5vbmUgZC1tZC1ibG9jayBkLWxnLWJsb2NrIGQteGwtYmxvY2sgc2lkZWJhci1vZmZjYW52YXMgc2lkZWJhcl9sZnQiIGlkPSJzaWRlYmFyIj4tMiBjb2wtc20tMCAgc2lkZWJhci1vZmZjYW52YXMgc2lkZWJhcl9sZnQiIGlkPSJzaWRlYmFyIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InNpZGViYXItbW9kdWxlIHRleHQtbGVmdCIgID4K",
+					"AQAAAAAAAAABAAAApxYAAAAAAACDFQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "Searching 874 files for \"            <div class=\"col-xl-10 col-lg-10             <div class=\"col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft\" id=\"sidebar\">-10 col-sm-12 content_center\">\" (case sensitive)\n\nE:\\diarioingeniero\\blog\\blog22_es_toledo_tres_culturas_en.html:\n  242              </div>  \n  243              <br><br><br>   \n  244:             <div class=\"col-xl-10 col-lg-10             <div class=\"col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft\" id=\"sidebar\">-10 col-sm-12 content_center\">                          \n  245                  <h2>San Juan de los Reyes monastery</h2>\n  246  \t\t\t\t\t<p> This is the second most important religious building in Toledo and one of the most visited along with the cathedral and the fortress. <br>\n\n1 match in 1 file\n",
+			"settings":
+			{
+				"buffer_size": 862,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
 		}
 	],
 	"build_system": "",
@@ -141,6 +203,7 @@
 	"expanded_folders":
 	[
 		"/E/diarioingeniero",
+		"/E/diarioingeniero/blog",
 		"/E/diarioingeniero/emprender",
 		"/E/diarioingeniero/emprender/wa_fr",
 		"/E/diarioingeniero/mis_sitios",
@@ -148,6 +211,9 @@
 	],
 	"file_history":
 	[
+		"/E/diarioingeniero/eco_05_en.html",
+		"/E/diarioingeniero/blog/blog22_es_toledo_tres_culturas_es.html",
+		"/E/diarioingeniero/blog/blog22_es_toledo_tres_culturas_en.html",
 		"/E/diarioingeniero/emprender/wa_fr/wa_fr_health_en.html",
 		"/E/diarioingeniero/blog_06_en.html",
 		"/E/diarioingeniero/blog_06_es.html",
@@ -241,7 +307,6 @@
 		"/E/diarioingeniero/viajes/iberia/viajes7_1_iberia_es.html",
 		"/E/diarioingeniero/viajes/iberia/viajes7_1_iberia_en.html",
 		"/E/diarioingeniero/viajes/iberia/viajes8_3_iberia_es.html",
-		"/E/diarioingeniero/eco_05_en.html",
 		"/E/diarioingeniero/lm_brianda_21/A_SergioA/html/Index.html",
 		"/E/diarioingeniero/css/_vti_cnf/social_uk_es.html",
 		"/E/diarioingeniero/lm_brianda_21/A_Daniel/Subpagina_1.html",
@@ -273,13 +338,11 @@
 		"/E/diarioingeniero/lm_brianda_21/A_Reza/Rezacss/bootstrap-utilities.css.map",
 		"/E/diarioingeniero/lm_brianda_21/A_Reza/Rezacss/bootstrap-utilities.min.css.map",
 		"/E/diarioingeniero/lm_brianda_21/A_Reza/Rezacss/bootstrap.css.map",
-		"/E/diarioingeniero/lm_brianda_21/A_Reza/Rezacss/bootstrap.min.css.map",
-		"/E/diarioingeniero/lm_brianda_21/A_Reza/Rezacss/Rezastyles.css",
-		"/E/diarioingeniero/lm_brianda_21/A_Reza/Rezajs/bootstrap.bundle.js.map"
+		"/E/diarioingeniero/lm_brianda_21/A_Reza/Rezacss/bootstrap.min.css.map"
 	],
 	"find":
 	{
-		"height": 41.0
+		"height": 29.0
 	},
 	"find_in_files":
 	{
@@ -298,6 +361,12 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"            <div class=\"col-xl-10 col-lg-10             <div class=\"col-xl-1 col-lg-2 col-md-2 d-none d-md-block d-lg-block d-xl-block sidebar-offcanvas sidebar_lft\" id=\"sidebar\">-10 col-sm-12 content_center\">",
+			"../imags/banners/banners/",
+			"../imags/banners/",
+			"../imags/banners/icons",
+			"../imags/banners/blog/blog22/toledo/",
+			"imags/banners/blog/blog22",
 			"href=\"emprender/wa_fr_main",
 			"href=\"emprender/wa_uk_main",
 			"eco_14_es",
@@ -419,13 +488,7 @@
 			"viajes1",
 			"viajes2",
 			"            <div class=\"container-fluid  d-none d-md-block\"\n                style=\"background-size: cover;",
-			"hidden-lg-down",
-			"hidden-lg-up",
-			"hidden-md-up",
-			"max-width : 400px;\" ",
-			"hidden-md-down",
-			"hidden-md-up",
-			"d-md-none"
+			"hidden-lg-down"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -433,6 +496,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"../imags/banners/",
+			"../imags/icons",
+			"../imags/blog/blog22/toledo/",
 			"href=\"emprender/wa_fr/wa_fr_main",
 			"href=\"emprender/wa_uk/wa_uk_main",
 			"href=\"blog",
@@ -557,10 +623,7 @@
 			"        <a href=\"#inicial\"><img class=\"d-md-block d-sm-block mob_arrow_up\"   src=\"imags/icons/arrow.png\"></a>   ",
 			"        <a href=\"#inicial\"><img class=\"d-md-none d-sm-none arrow_up\"     src=\"imags/icons/arrow.png\"></a>",
 			"                <div id=\"myCarousel\" class=\"carousel slide bg-inverse d-lg-none d-xl-none blog_carousel\" data-ride=\"carousel\">\n",
-			"                <img class=\"img-fluid hidden-lg-up mob_banner_fmt\" src=\"imags/banners/ecodiario_en_mv.jpg\" alt=”Logo” />\n                <div class=\"container-fluid img-fluid hidden-lg-up row mob_header_fmt\">                    \n                    <a class=\"navbar-brand\" href=\"blog_04_en.html\">Blog</a>\n",
-			"                            <a class=\"nav-link\" href=\"blog_04_en.html\">Personal Blog<span class=\"sr-only\">(current)</span></a>\n",
-			"                    <a class=\"navbar-brand\" href=\"blog_04_en.html\">Blog</a>\n                    <a href=\"eco_09_es.html\"><img class=\"offset-1 icono_s\" src=\"imags/icons/sp.jpg\" alt=”ESP_LANGUAGUE” /></a>\n                    <a><img class=\"icono_s\" src=\"imags/icons/en0.jpg\" alt=”ENG_LANGUAGUE” /></a>\n                </div>\n                <div class=\"collapse navbar-collapse\" id=\"navbarsExampleDefault\">\n                    <ul class=\"navbar-nav mr-auto\">\n                        <li class=\"nav-item active\">\n                            <a class=\"nav-link\" href=\"blog_04_en.html\">Personal Blog<span class=\"sr-only\">(current)</span></a>",
-			"                            <a class=\"nav-link\" href=\"blog_04_es.html\">Personal Blog</span></a>"
+			"                <img class=\"img-fluid hidden-lg-up mob_banner_fmt\" src=\"imags/banners/ecodiario_en_mv.jpg\" alt=”Logo” />\n                <div class=\"container-fluid img-fluid hidden-lg-up row mob_header_fmt\">                    \n                    <a class=\"navbar-brand\" href=\"blog_04_en.html\">Blog</a>\n"
 		],
 		"reverse": false,
 		"scrollbar_highlights": true,
@@ -577,14 +640,250 @@
 			[
 				{
 					"buffer": 0,
-					"file": "eco_05_en.html",
+					"file": "blog/blog22_es_toledo_tres_culturas_es.html",
 					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 39591,
+						"buffer_size": 102370,
 						"regions":
 						{
+						},
+						"selection":
+						[
+							[
+								7161,
+								6969
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1996.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "blog/blog22_es_toledo_tres_culturas_en.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 98253,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5699,
+								5699
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										7411,
+										7414
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										5660,
+										5663
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1547.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 862,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										388,
+										597
+									]
+								],
+								"scope": ""
+							}
 						},
 						"selection":
 						[
@@ -600,27 +899,12 @@
 							{
 								"close":
 								{
-									"1":
-									[
-										14,
-										15
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/angle_bracket.png",
-										"region.orangish"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										0,
-										1
-									]
 								},
 								"unmatched":
 								{
@@ -628,71 +912,76 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
 							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"stack_multiselect": false,
 					"type": "text"
 				}
@@ -754,7 +1043,7 @@
 	"project": "mi_web.sublime-project",
 	"replace":
 	{
-		"height": 54.0
+		"height": 74.0
 	},
 	"save_all_on_build": true,
 	"select_file":
