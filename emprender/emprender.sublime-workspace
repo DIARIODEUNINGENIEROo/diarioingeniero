@@ -113,12 +113,40 @@
 	"expanded_folders":
 	[
 		"/E/diarioingeniero/emprender",
-		"/E/diarioingeniero/emprender/wa_fr",
 		"/E/diarioingeniero/mis_sitios",
-		"/E/diarioingeniero/mis_sitios/gc"
+		"/E/diarioingeniero/viajes",
+		"/E/diarioingeniero/viajes/iberia"
 	],
 	"file_history":
 	[
+		"/E/diarioingeniero/viajes/iberia/viajes11_6_iberia_es.html",
+		"/E/diarioingeniero/viajes/iberia/viajes11_5_iberia_es.html",
+		"/E/diarioingeniero/viajes/iberia/viajes11_4_iberia_es.html",
+		"/E/diarioingeniero/viajes/iberia/viajes11_3_iberia_es.html",
+		"/E/diarioingeniero/viajes/iberia/viajes11_2_iberia_es.html",
+		"/E/diarioingeniero/viajes/iberia/viajes11_1_iberia_es.html",
+		"/E/diarioingeniero/viajes/iberia/viajes10_5_iberia_es.html",
+		"/E/diarioingeniero/viajes/iberia/viajes10_4_iberia_es.html",
+		"/E/diarioingeniero/viajes/iberia/viajes10_3_iberia_es.html",
+		"/E/diarioingeniero/viajes/iberia/viajes10_2_iberia_es.html",
+		"/E/diarioingeniero/viajes/iberia/viajes9_7_iberia_es.html",
+		"/E/diarioingeniero/viajes/iberia/viajes8_4_iberia_es.html",
+		"/E/diarioingeniero/viajes/iberia/viajes8_1_iberia_en.html",
+		"/E/diarioingeniero/viajes/iberia/viajes11_iberia_es.html",
+		"/E/diarioingeniero/viajes/iberia/viajes10_iberia_es.html",
+		"/E/diarioingeniero/viajes/iberia/viajes2_iberia_es.html",
+		"/E/diarioingeniero/viajes/iberia/viajes6_iberia_en.html",
+		"/E/diarioingeniero/viajes/iberia/viajes6_iberia_es.html",
+		"/E/diarioingeniero/viajes/iberia/viajes1_2_iberia_es.html",
+		"/E/diarioingeniero/viajes/iberia/viajes1_6_iberia_es.html",
+		"/E/diarioingeniero/viajes/iberia/viajes1_6_iberia_en.html",
+		"/E/diarioingeniero/viajes/iberia/viajes10_iberia_en.html",
+		"/E/diarioingeniero/viajes/iberia/viajes5_2_iberia_es.html",
+		"/E/diarioingeniero/viajes/iberia/viajes9_2_iberia_es.html",
+		"/E/diarioingeniero/viajes/iberia/viajes9_1_iberia_en.html",
+		"/E/diarioingeniero/viajes/iberia/viajes10_1_iberia_es.html",
+		"/E/diarioingeniero/viajes/iberia/viajes3_1_iberia_es.html",
+		"/E/diarioingeniero/viajes/iberia/viajes3_1_iberia_en.html",
 		"/E/diarioingeniero/mis_sitios/gu/gu_sindice_es.html",
 		"/E/diarioingeniero/emprender/wa_fr/wa_fr_health_es.html",
 		"/E/diarioingeniero/emprender/wa_fr/wa_fr_main_en.html",
@@ -182,10 +210,8 @@
 		"/E/diarioingeniero/mis_sitios/gc/gc_l_agaete_es.html",
 		"/E/diarioingeniero/mis_sitios/gc/gc_l_aguimes_es.html",
 		"/E/diarioingeniero/mis_sitios/gc/gc_l_arucas_es.html",
-		"/E/diarioingeniero/viajes/iberia/viajes8_1_iberia_en.html",
 		"/E/diarioingeniero/mis_sitios/gu/gu_h_1_en.html",
 		"/E/diarioingeniero/mis_sitios/gu/gu_main_en.html",
-		"/E/diarioingeniero/viajes/iberia/viajes2_iberia_es.html",
 		"/E/diarioingeniero/viajes/iberia/viajes2_iberia_en.html",
 		"/E/diarioingeniero/viajes/iberia/viajes2_2_iberia_es.html",
 		"/E/diarioingeniero/viajes/iberia/viajes2_1_iberia_es.html",
@@ -220,37 +246,11 @@
 		"/E/diarioingeniero/emprender/wa_uk/wa_uk_health_en.html",
 		"/E/diarioingeniero/emprender/wa_uk/wa_uk_house_en.html",
 		"/E/diarioingeniero/emprender/wa_uk/wa_uk_idiom_en.html",
-		"/E/diarioingeniero/emprender/wa_uk/wa_uk_markets_en.html",
-		"/E/diarioingeniero/emprender/wa_uk/wa_uk_telecoms_en.html",
-		"/E/diarioingeniero/emprender/wa_uk/wa_uk_tourism_en.html",
-		"/E/diarioingeniero/emprender/wa_uk/wa_uk_transfer_en.html",
-		"/E/diarioingeniero/emprender/wa_uk/wa_uk_transport_en.html",
-		"/E/diarioingeniero/mis_sitios/gc/gc_historia_en.html",
-		"/E/diarioingeniero/mis_sitios/gc/gc_isla_en.html",
-		"/E/diarioingeniero/mis_sitios/gc/gc_lindice_en.html",
-		"/E/diarioingeniero/mis_sitios/gc/gc_main_en.html",
-		"/E/diarioingeniero/mis_sitios/gc/gc_s_brigidateror_en.html",
-		"/E/diarioingeniero/mis_sitios/gc/gc_s_charco_azul_en.html",
-		"/E/diarioingeniero/mis_sitios/gc/gc_s_confital_en.html",
-		"/E/diarioingeniero/mis_sitios/gc/gc_s_guayadeque_en.html",
-		"/E/diarioingeniero/mis_sitios/gc/gc_s_guigui_en.html",
-		"/E/diarioingeniero/mis_sitios/gc/gc_s_maspalomas_en.html",
-		"/E/diarioingeniero/mis_sitios/gc/gc_s_roque_nublo_en.html",
-		"/E/diarioingeniero/mis_sitios/gc/gc_s_temisas_en.html",
-		"/E/diarioingeniero/mis_sitios/gc/gc_sindice_en.html",
-		"/E/diarioingeniero/mis_sitios/gu/gu_ciudad_en.html",
-		"/E/diarioingeniero/mis_sitios/gu/gu_gastronomia_en.html",
-		"/E/diarioingeniero/mis_sitios/gu/gu_h_2_en.html",
-		"/E/diarioingeniero/mis_sitios/gu/gu_h_3_en.html",
-		"/E/diarioingeniero/mis_sitios/gu/gu_h_4_en.html",
-		"/E/diarioingeniero/mis_sitios/gu/gu_h_5_en.html",
-		"/E/diarioingeniero/mis_sitios/gu/gu_h_i_en.html",
-		"/E/diarioingeniero/mis_sitios/gu/gu_provincia_en.html",
-		"/E/diarioingeniero/mis_sitios/gu/gu_s_aguila_en.html"
+		"/E/diarioingeniero/emprender/wa_uk/wa_uk_markets_en.html"
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -269,6 +269,9 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			">\n",
+			"card_body5",
+			"viajes10_3_iberia_en",
 			"eco_11_es",
 			"<a class=\"nav-link\" href=\"eco_11_es.html\">ECO ",
 			"col-xl-10",
@@ -393,10 +396,7 @@
 			"href=\"viajes_iberia",
 			"mis_sitios/",
 			"../emprender/wa_uk_",
-			"emprender/wa_fr",
-			"../emprender/wa_fr",
-			"../emprender/wa_uk",
-			"avisolegal_es"
+			"emprender/wa_fr"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -551,7 +551,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 29.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -604,7 +604,7 @@
 	"project": "emprender.sublime-project",
 	"replace":
 	{
-		"height": 54.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -642,7 +642,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 305.0,
+	"side_bar_width": 208.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
