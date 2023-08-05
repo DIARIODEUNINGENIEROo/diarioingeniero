@@ -81,6 +81,11 @@ img.central_m   { max-width: 300px; height: auto; margin: 10px; horiz-align: cen
 img.central_l	  { width:auto; max-height:500px; margin: 10px; horiz-align: center; }
 img.central_map   { width:auto; max-height:800px; margin: 10px; horiz-align: center; }
 
+img.escudo {height: 70px; margin-right: 20px; float:left}
+img.bandera {height: 70px; margin-left: 20px; float:right}
+p.titulo {font-style: initial;font-size:28pt; font-weight: bold; font-family: sans-serif; text-align: center; vertical-align: middle;}
+p.titulo_mv {font-style: initial;font-size:16pt; font-weight: bold; font-family: sans-serif; text-align: center; vertical-align: middle;}
+
 .card_h{
   z-index: 2;
   padding-bottom: 0px;
