@@ -261,18 +261,24 @@ img.icono_s		{ height:30px; border:0; right: -120px}
 
 img.portada      { max-height:200px; border:0; }
 
-svg path{
-fill: red;
-stroke: black;
-stroke-width: .5;
+svg path {
+  fill: transparent;
+  stroke: none;
+  stroke-width: 1;
+  transition: stroke 0.3s ease, fill 0.6s ease 0.3s; /* Fill 0.3s después */
 }
 
-svg path:hover{
-  fill: black;
-  transition: 0.6s;
-  cursor: pointer;
-
+svg path:hover {
+  stroke: #ff0000;      /* Rojo contorno PRIMERO */
+  fill: rgba(255,0,0,0.5); /* Rojo semitransparente DESPUÉS */
 }
+
+@keyframes fillDelay {
+  0% { fill: transparent; }
+  40% { fill: transparent; }  /* Contorno solo 40% tiempo */
+  100% { fill: rgba(255,0,0,0.5); }
+}
+
 /*
  * Off Canvas
  * --------------------------------------------------
